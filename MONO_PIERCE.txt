@@ -1,0 +1,2 @@
+VSTPlugin: Library BL-LoFi.dll Depth 1 InGain 0.5 OutGain 0.5 Graph 0
+VSTPlugin: Library Wider.dll ChunkData "KYoiPg=="

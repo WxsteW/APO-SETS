@@ -1,0 +1,2 @@
+Preamp: 36 dB
+Filter: ON HS Fc 271 Hz Gain 5 dB

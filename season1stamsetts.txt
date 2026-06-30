@@ -1,0 +1,8 @@
+Filter: ON HPQ Fc 323.62 Hz Q 333.333
+Filter: ON LPQ Fc 250.63 Hz Q 333.333
+Filter: ON HPQ Fc 179.9 Hz Q 333.333
+VSTPlugin: Library Wider.dll ChunkData "MQxDPw=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABBAQAAAAAAAAA+R0MJSq8Eh2VudGl0eSByZXZlcmIA"
+LoudnessCorrection: State 1 ReferenceLevel -23 ReferenceOffset 99 Attenuation 0.38
+Filter: ON HSC Fc 8091.52 Hz Gain 20 dB Q 33.3333
+Filter: ON LSC Fc 736.26 Hz Gain 20 dB Q 33.3333

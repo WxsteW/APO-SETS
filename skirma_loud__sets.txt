@@ -1,0 +1,5 @@
+Preamp: 100 dB
+Filter: ON HPQ Fc 143.23 Hz Q 0.7071
+VSTPlugin: Library Wider.dll ChunkData "H+7hPg=="
+VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIcIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHZvbHVtZT0iMS4wIiBkcnl3ZXQ9IjEuMCIgc3RlcmVvd2lkdGg9IjEuMCIgY2hvcnVzMWVuYWJsZT0iMS4wIiBjaG9ydXMyZW5hYmxlPSIwLjAiLz48L3Byb2dyYW1zPjwvdGFsPgA="
+LoudnessCorrection: State 1 ReferenceLevel 50 ReferenceOffset 99 Attenuation 1.0

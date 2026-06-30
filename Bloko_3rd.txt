@@ -1,0 +1,7 @@
+Preamp: 10 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsABACAwAABwEAEAQHAAAJXgAQAgMAAAAAAJqZWT8fhSs/9iicPo/CFT8="
+VSTPlugin: Library Wider.dll ChunkData "AAAAPg=="
+Filter: ON HS Fc 49.79 Hz Gain 5 dB
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 99 Attenuation 1.0
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Panipulator_3.dll

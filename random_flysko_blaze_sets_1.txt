@@ -1,0 +1,10 @@
+VSTPlugin: Library APO-PLUGINS-main\basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD/rUTg+pHC9PgAAgD8="
+VSTPlugin: Library APO-PLUGINS-main\Wider.dll ChunkData "AACAPw=="
+# VSTPlugin: Library APO-PLUGINS-main\basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAAA/XI8CPwAAAD8="
+VSTPlugin: Library "APO-PLUGINS-main\FREE87 FR-COMP(x64).dll" Attack 0 MakeUp 1 Limiter 0 Thrshld 1 Release 0
+VSTPlugin: Library APO-PLUGINS-main\Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library APO-PLUGINS-main\Wider.dll ChunkData "AACAPw=="
+Preamp: 100 dB
+Preamp: 100 dB
+VSTPlugin: Library APO-PLUGINS-main\TAL-Chorus-LX-64.dll ChunkData "VkMyIfgAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHByb2dyYW1uYW1lPSJTdGFydHVwIiBjYXRlZ29yeT0iY2F0ZWdvcnkgMSIgdm9sdW1lPSIxLjAiIGRyeXdldD0iMS4wIiBzdGVyZW93aWR0aD0iMS4wIiBjaG9ydXMxZW5hYmxlPSIxLjAiIGNob3J1czJlbmFibGU9IjEuMCIvPjwvcHJvZ3JhbXM+PG1pZGltYXAvPjwvdGFsPgA="
+VSTPlugin: Library APO-PLUGINS-main\ReverbSolo1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAAA/AQAAAAAAAAA+R0MJSq8EhwA="

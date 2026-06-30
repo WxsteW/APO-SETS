@@ -1,0 +1,5 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPqRwPT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPilcTz8="
+VSTPlugin: Library Wider.dll ChunkData "AQ1QPg=="
+Filter: ON HPQ Fc 148 Hz Q 0.6475
+Include: yesper_stereo.txt

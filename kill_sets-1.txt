@@ -1,0 +1,6 @@
+Preamp: 30 dB
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCF6z4fhSs/9ihcPgAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4KVz8fhSs/9iicPgAAgD8="
+Preamp: 20 dB
+Filter: ON HPQ Fc 524.84 Hz Q 0.3333

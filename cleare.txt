@@ -1,0 +1,5 @@
+Filter: ON HPQ Fc 79.62 Hz Q 0.3333
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 99 Attenuation 1.0
+Preamp: 20 dB
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjIiLz4A"
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"

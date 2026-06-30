@@ -1,0 +1,2 @@
+Preamp: 15.4 dB
+Filter: ON HPQ Fc 65.17 Hz Q 0.7777

@@ -1,0 +1,5 @@
+Preamp: 20 dB
+Filter: ON HP Fc 102.1 Hz
+Filter: ON HS Fc 20 Hz Gain 20 dB
+VSTPlugin: Library Wider.dll ChunkData "NU3TPg=="
+VSTPlugin: Library Wider.dll ChunkData "iYgIPg=="

@@ -1,0 +1,7 @@
+Preamp: 14.8 dB
+VSTPlugin: Library Wider.dll ChunkData "P+mTPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4KVz8fhSs/NDMzPuF6VD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4KVz8fhSs/NDMzPuF6VD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbABE1VvRaowyYh+Tj1VlQO1vAAAAAAAAID/NzCw/AAAAP+F6VD8="
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.836449 Bypass 1
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="

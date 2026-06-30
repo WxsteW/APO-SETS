@@ -1,0 +1,2 @@
+Preamp: 50 dB
+Filter: ON HSC 8.647 dB Fc 159.97 Hz Gain 16.1 dB

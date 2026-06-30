@@ -1,0 +1,4 @@
+Copy: L=L+R R=L+R
+Preamp: 3 dB
+Copy: L=L+R R=R
+VSTPlugin: Library QuickHaas.dll

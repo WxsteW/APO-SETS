@@ -1,0 +1,10 @@
+VSTPlugin: Library "Transient x64.dll" "Attack Ratio" 0.5 "Sustain Ratio x2" 0 "Sustain Ratio" 0.5 "Attack Envelope" 0.0983356 "Advanced Mode" 0 Power 1 "High Threshold" 1 "Ratio Link" 0 "Sustain Envelope" 0.586033 "Attack Ratio x2" 0 Monitor 1 "Solo Attack" 0 "Solo Sustain" 0 "Solo Left" 0 "Solo Right" 0 "LP Filter" 1 "Detection Mode" 1 "Operation Mode" 0 "HP Filter" 0 "Low Threshold" 0 "Output Volume" 0.494031
+Filter: ON HSC 12 dB Fc 20 Hz Gain 7.5 dB
+VSTPlugin: Library Wider_1.dll ChunkData "AACAPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPilcTz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPlyPQj8="
+VSTPlugin: Library BL-Gain60.dll Gain 0.878472
+VSTPlugin: Library RoughRider3.dll ChunkData "VkMyIdwBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8UlIzMlByZXNldEZpbGUgcHJlc2V0TmFtZT0iRGVmYXVsdCIgcGx1Z2luVmVyc2lvbj0iMy4xLjAiIHVpV2lkdGg9IjExMjUiIHVpSGVpZ2h0PSIzNzUiPjxQYXJhbWV0ZXJzPjxQQVJBTSBpZD0iMCIgdmFsdWU9IjIwLjAiLz48UEFSQU0gaWQ9IjEiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9IjEwIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSIyIiB2YWx1ZT0iLTIwLjAiLz48UEFSQU0gaWQ9IjMiIHZhbHVlPSIyLjAiLz48UEFSQU0gaWQ9IjQiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSI1IiB2YWx1ZT0iMjUwLjAiLz48UEFSQU0gaWQ9IjYiIHZhbHVlPSI1LjAiLz48UEFSQU0gaWQ9IjciIHZhbHVlPSIxMDAuMCIvPjxQQVJBTSBpZD0iOCIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0iOSIgdmFsdWU9IjAuMCIvPjwvUGFyYW1ldGVycz48L1JSMzJQcmVzZXRGaWxlPgA="
+Filter: ON HPQ Fc 240 Hz Q 0.3333
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD/Xo1A/AACAPwAAgD8="
+VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIQYBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHByb2dyYW1uYW1lPSJTdGFydHVwIiBjYXRlZ29yeT0iY2F0ZWdvcnkgMSIgdm9sdW1lPSIxLjAiIGRyeXdldD0iMC4zOTgwMDAwMzE3MDk2NzEiIHN0ZXJlb3dpZHRoPSIwLjAiIGNob3J1czFlbmFibGU9IjAuMCIgY2hvcnVzMmVuYWJsZT0iMC4wIi8+PC9wcm9ncmFtcz48bWlkaW1hcC8+PC90YWw+AA=="

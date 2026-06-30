@@ -1,0 +1,8 @@
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library GGain2.dll Gain 0.9875
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library Wider_1.dll ChunkData "AAAgPw=="
+VSTPlugin: Library GGain2.dll Gain 1

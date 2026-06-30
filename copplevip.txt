@@ -1,0 +1,6 @@
+Preamp: 100 dB
+Filter: ON HP Fc 248 Hz
+Filter: ON HPQ Fc 33.34 Hz Q 0.641
+Filter: ON BP Fc 291.76 Hz Q 33.3333
+Filter: ON HS Fc 62 Hz Gain 30.4 dB
+Filter: ON HPQ Fc 33.34 Hz Q 1.5953

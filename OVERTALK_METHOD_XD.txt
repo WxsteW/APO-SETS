@@ -1,0 +1,5 @@
+ZOR & BOR
+Preamp: 20 dB
+Filter: ON HP Fc 222 Hz
+LoudnessCorrection: State 1 ReferenceLevel 22 ReferenceOffset 55 Attenuation 1.0
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="

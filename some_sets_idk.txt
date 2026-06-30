@@ -1,0 +1,7 @@
+Device: Microphone USB Condenser Microphone {12200f48-fcdb-477b-95ee-be01b1edda70}
+Channel: all
+Preamp: 25 dB
+VSTPlugin: Library DeeWider.dll ChunkData "VkMyIWwAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJNYWluPSIxLjAiIGRiQ29sb3I9IjAuMCIgZGJEdW89IjAiLz4A"
+VSTPlugin: Library Wider.dll ChunkData "mpmZPg=="
+VSTPlugin: Library SweetDrums_x64.dll Bypass 1 Output 1 Process 0.15 Input 0
+VSTPlugin: Library UpStereo.dll ChunkData "VkMyIb0AAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8VVBTVF8zIHVpSGVpZ2h0PSI1MTIiIHBhckdhaW49IjEuMCIgcGFyU3RlcmVvV2lkdGg9IjAuMTgwMDAwMDA3MTUyNTU3NCIgcGFyTG91ZFR5cGU9IjAuNSIgcGFyQWN0aXZlPSIwLjUiIHBhckFpcj0iMC4zNjAwMDAwMTQzMDUxMTQ3IiBwYXJCYXNzPSIwLjAiLz4A"

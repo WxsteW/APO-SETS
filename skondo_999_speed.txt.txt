@@ -1,0 +1,6 @@
+Preamp: 100 dB
+Filter: ON BP Fc 247.5 Hz Q 1.1
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 99 Attenuation 1.0
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 99 Attenuation 1.0
+Preamp: 20 dB
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 99 Attenuation 1.0

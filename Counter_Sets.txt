@@ -1,0 +1,29 @@
+# Set Base, Dont Touch
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAEAAAABAAAAAAAAAAAAAM3MLD8fhas+AAAAP///Hz8="
+Filter: ON HS Fc 1448.87 Hz Gain 5.9 dB
+adjust if needed
+Preamp: 20 dB
+Mono: 10-30,, Center: 50-58,, Above Head: 67/79,, Wide: 89-100,, MAX Wideness: 120
+# Center
+VSTPlugin: Library wider.dll ChunkData "2Y99Pg=="
+VSTPlugin: Library Pana.dll ChunkData "6W0AP2ZmIj8rMzY/y8wsPgAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAcigcV4hbky/"
+# Above Head
+# VSTPlugin: Library wider.dll ChunkData "syzLPg=="
+# VSTPlugin: Library MagicStereo64.dll Mix 0.7 Mod 0
+# Wide
+# VSTPlugin: Library wider.dll ChunkData "AACAPw=="
+always start off centered then work ur way up from there
+# inhead
+# VSTPlugin: Library quickhaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQzOTk5OTk5NzYxNTgxNDIwODk4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Mid Ear (L/R)
+# VSTPlugin: Library GFM_Psypan.dll width 0.5 pan 0.383721 x-itd 1
+# VSTPlugin: Library GFM_Psypan.dll width 0.5 pan 0.598391 x-itd 1
+Top (L/R)
+# VSTPlugin: Library quickhaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA4MDAwMDA1MDM2NTkyNDgzNTIwNSIgc3RlcmVvVHlwZT0iMCIvPgA="
+# VSTPlugin: Library quickhaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwODAwMDAwNTAzNjU5MjQ4MzUyMDUiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# Right ear
+# VSTPlugin: Library GFM_psypan.dll width 0.898496 pan 0.665474 x-itd 0.789474
+# Left ear
+# VSTPlugin: Library GFM_psypan.dll width 0.906015 pan 0.316637 x-itd 0.830827
+# Abovehead
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA1MDAwMDEwMTMyNzg5NjExODE2NCIgc3RlcmVvVHlwZT0iMCIvPgA="

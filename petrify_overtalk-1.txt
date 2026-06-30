@@ -1,0 +1,17 @@
+Copy: L=L+R R=L+R
+Preamp: -0.05 dB
+Filter: ON HPQ Fc 333 Hz Q 0.2222
+Channel: all
+Preamp: -0.1 dB
+Filter: ON HPQ Fc 20 Hz Q 0.5555
+VSTPlugin: Library Wider.dll ChunkData "exQuPg=="
+Delay: 1 ms
+LoudnessCorrection: State 1 ReferenceLevel 3 ReferenceOffset 8 Attenuation 0.07
+Filter: ON HPQ Fc 35 Hz Q 0.1111
+Preamp: -0.1 dB
+VSTPlugin: Library GStereo.dll Freq1 0.643453 Width3 0.725 Freq2 0.400106 Width1 0 Width2 0.65
+Delay: 1 ms
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPnE9yj4="
+Channel: 
+Filter: ON HPQ Fc 20 Hz Q 0.4444
+Device: Microphone USB Condenser Microphone {fa7c1c94-5cac-4257-99f1-6d01f430e511}

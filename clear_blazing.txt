@@ -1,0 +1,8 @@
+VSTPlugin: Library Wider.dll
+LoudnessCorrection: State 1 ReferenceLevel 57 ReferenceOffset 99 Attenuation 1.0
+VSTPlugin: Library TAL-Chorus-LX-64.dll
+Filter: ON HPQ Fc 100 Hz Q 0.74
+Filter: ON HPQ Fc 55 Hz Q 1
+Filter: ON HPQ Fc 10 Hz Q 0.3333
+VSTPlugin: Library basiQ.dll
+Preamp: 100 dB

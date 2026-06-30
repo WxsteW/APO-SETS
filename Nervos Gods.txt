@@ -1,0 +1,6 @@
+VSTPlugin: Library Wider.dll ChunkData "jskYPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8K1wM/AAAAAAAAgD8="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxNTk5OTk5MTQ0NjczMzQ3NDczMSIgc3RlcmVvVHlwZT0iMCIvPgA="
+Filter: ON HPQ Fc 53.34 Hz Q 0.3333
+Filter: ON HSC Fc 38.55 Hz Gain 20 dB Q 15.0963
+Preamp: 15 dB

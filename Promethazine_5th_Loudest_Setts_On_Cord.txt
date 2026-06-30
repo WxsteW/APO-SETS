@@ -1,0 +1,4 @@
+VSTPlugin: Library Wider.dll ChunkData "augGPg=="
+Copy: L=L+R R=L+R
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAHx8fHx7e3t7e3t/f3+AgIB9fX19AAAAALgeRT/Yo7A+XI8CPwvXAz8="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA3NjAwMDAwMTI4MTQ5OTg2MjY3MSIgc3RlcmVvVHlwZT0iMCIvPgA="

@@ -1,0 +1,5 @@
+Filter: ON LPQ Fc 123.89 Hz Q 333.333
+Filter: ON HPQ Fc 163.32 Hz Q 333.333
+Filter: ON HPQ Fc 247.19 Hz Q 333.333
+Filter: ON HSC Fc 202.32 Hz Gain 20 dB Q 33.3333
+Filter: ON LSC Fc 108.65 Hz Gain 20 dB Q 33.3333

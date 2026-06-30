@@ -1,0 +1,4 @@
+VSTPlugin: Library Wider.dll ChunkData "wQmcPg=="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+Preamp: 10.4 dB

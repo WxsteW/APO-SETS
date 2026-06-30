@@ -1,0 +1,2 @@
+VSTPlugin: Library Wider.dll ChunkData "UrgePw=="
+Filter: ON HSC Fc 8 Hz Gain 75 dB Q 0.5045
