@@ -1,0 +1,1 @@
+Filter: ON LPQ Fc 90000 Hz Q 999

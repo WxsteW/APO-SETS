@@ -1,0 +1,4 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJuZ2T6amdk+SOEaP2dmZj8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPco3D6amdk+mpkZPylcLz8="
+VSTPlugin: Library BL-Precedence.dll DelayNorm 0.399305
+VSTPlugin: Library BL-Precedence.dll DelayNorm 0.399305

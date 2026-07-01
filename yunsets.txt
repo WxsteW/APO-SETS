@@ -1,0 +1,76 @@
+ 1.37  Aimpart at Penis No airshot function  40-80 ping 
+ 
+Smoothing off 
+No aim assist 
+
+----------------
+1.518 yun blattent
+Aimpart penis or upper torso
+No aim assist
+No airshot func
+1.718
+2.125
+2.924
+2.751
+1.573
+1.293
+3.723
+3.983
+2.200
+
+Any ranges 
+Ping 40-160
+Hitparts , Head , Uppertorso Or penis
+
+Airshot function head or upper torso 
+
+No aim assist 
+Wall check on
+Notif on
+yun sets
+1.6 --Close Sets
+2.0 --Far sets
+
+Hitbox = UpperLower
+
+Hitbox2 = Penis
+
+Enables:
+Notifacation, tracer, airshot functions, fov circle
+
+1.873
+1.927
+1.576
+1.657
+1.872
+2.871
+2.928
+1.827
+3.173
+3.928
+3.293
+3.828
+1.948
+1.947
+2.751
+all tested and hits a lot of shots
+lower torso / upper
+no airshot
+1.37\5
+Auto setup
+Ping 40-70
+Auto func air
+Good for raiding n far rev 1v1s
+
+streamable 
+
+my streamable sets
+
+Basic yun camlock setttings (don't change them)
+
+Turn on smoothing
+Put 0.1992
+Upper torso 
+Airshot head
+60-120 ping shits op
+U gotta trace with it tho

@@ -1,0 +1,4 @@
+Preamp: 15 dB
+VSTPlugin: Library Wider.dll ChunkData "ft93Pg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPkfh+j4="
+Filter: ON HP Fc 48.76 Hz

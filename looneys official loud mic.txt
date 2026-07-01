@@ -1,0 +1,7 @@
+Preamp: 6 dB
+VSTPlugin: Library Wider.dll ChunkData "/cu/Pg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD8AAAAASOE6P5qZeT8="
+Filter: ON HPQ Fc 63.83 Hz Q 0.3333
+Delay: 5 ms
+VSTPlugin: Library GGain.dll Gain 0.670833
+VSTPlugin: Library "ATKUniversalDelay x64.dll" Delay 0.283907 Blend 0.837209 Feedforward 1 Feedback 0.424418

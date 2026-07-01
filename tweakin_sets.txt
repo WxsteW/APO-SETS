@@ -1,0 +1,2 @@
+Filter: ON HSC Fc 20000 Hz Gain 55 dB Q 0.3333
+VSTPlugin: Library Wider.dll ChunkData "WYkVPw=="

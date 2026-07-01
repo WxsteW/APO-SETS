@@ -1,0 +1,6 @@
+Preamp: 5 dB
+VSTPlugin: Library Wider.dll ChunkData "UrgePg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+Filter: ON HS Fc 20 Hz Gain 7 dB
+VSTPlugin: Library Wider.dll ChunkData "zczMPQ=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="

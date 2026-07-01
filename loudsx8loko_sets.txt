@@ -1,0 +1,6 @@
+VSTPlugin: Library DeeGain.dll ChunkData "VkMyIWMAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJNYWluPSIwLjcxMjAwMDAxMjM5Nzc2NjEiLz4A"
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwMTk5OTk5NjYwMjUzNTI0NzgwMjciIHN0ZXJlb1R5cGU9IjAiLz4A"
+# VSTPlugin: Library "PanCake2-64bit (1).dll"
+VSTPlugin: Library ReverbSolo1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAACamVk/AQAAAP3KAcE+R0MJSq8EhwA="
+Preamp: 4 dB
+VSTPlugin: Library Wider.dll ChunkData "TMZkPg=="

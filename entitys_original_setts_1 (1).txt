@@ -1,0 +1,7 @@
+Preamp: 54 dB
+Preamp: 56.7 dB
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\DragonflyRoomReverb-vst.dll" ChunkData "cHJlc2V0AExhcmdlIFZvY2FsIFJvb20AAGRyeV9sZXZlbAA4MABlYXJseV9sZXZlbAAxMDAAZWFybHlfc2VuZAAxMDAAbGF0ZV9sZXZlbAAxMDAAc2l6ZQAxNQB3aWR0aAAxNTAAcHJlZGVsYXkANABkZWNheQAxAGRpZmZ1c2UAOTgAc3BpbgA1AHdhbmRlcgAxMgBpbl9oaWdoX2N1dAAxNjAwMABlYXJseV9kYW1wADcwMDAAbGF0ZV9kYW1wADUwMDAAbG93X2Jvb3N0ADMwAGJvb3N0X2ZyZXEANDAwAGluX2xvd19jdXQANAAA"
+Filter: ON HPQ Fc 60.4 Hz Q 0.3333
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\Wider.dll" ChunkData "AACAPw=="
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\Wider.dll" ChunkData "AACAPw=="
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\GGain2.dll" Gain 1

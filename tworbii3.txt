@@ -1,0 +1,17 @@
+Preamp: 20 dB
+Preamp: 12.6 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Filter: ON HPQ Fc 29.24 Hz Q 0.3333
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+VSTPlugin: Library Wider.dll ChunkData "zcxMPg=="
+LoudnessCorrection: State 1 ReferenceLevel -9 ReferenceOffset 99 Attenuation 1.0

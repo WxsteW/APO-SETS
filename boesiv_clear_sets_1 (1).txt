@@ -1,0 +1,5 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvXIz8fhSs/9iicPgAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT/NzCw/9iicPgAAgD8="
+VSTPlugin: Library Wider.dll ChunkData "Uy7lPg=="
+VSTPlugin: Library Wider.dll ChunkData "0Q1dPg=="
+# Device:  all

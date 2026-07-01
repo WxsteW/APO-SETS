@@ -1,0 +1,9 @@
+# Include: peace.txt
+Preamp: 100 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYD/XoxA/hesRPwAAgD8="
+VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIQcBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHByb2dyYW1uYW1lPSJTdGFydHVwIiBjYXRlZ29yeT0iY2F0ZWdvcnkgMSIgdm9sdW1lPSIxLjAiIGRyeXdldD0iMC4zNjYwMDAwMjY0NjQ0NjIzIiBzdGVyZW93aWR0aD0iMS4wIiBjaG9ydXMxZW5hYmxlPSIwLjAiIGNob3J1czJlbmFibGU9IjAuMCIvPjwvcHJvZ3JhbXM+PG1pZGltYXAvPjwvdGFsPgA="
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library Wider_1.dll ChunkData "AAAAPw=="
+VSTPlugin: Library Clipmaxx64.dll ChunkData "VkMyIYUAAAA8Um9vdD48UHJlR2Fpbj4yNDwvUHJlR2Fpbj48Q2VpbGluZz4wPC9DZWlsaW5nPjxQb3N0R2Fpbj4yNDwvUG9zdEdhaW4+PEF1dG9HYWluPjA8L0F1dG9HYWluPjxDdXQ+MDwvQ3V0PjxDbGlwTW9kZT4wPC9DbGlwTW9kZT48L1Jvb3Q+AA=="
+VSTPlugin: Library Wider_1.dll ChunkData "ZmZmPg=="
+Preamp: 100 dB

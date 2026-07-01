@@ -1,0 +1,8 @@
+Preamp: 30 dB
+Preamp: 40 dB
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\Wider.dll" ChunkData "AACAPw=="
+Preamp: 20 dB
+Filter: ON HPQ Fc 49.09 Hz Q 0.3333
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 50 dB

@@ -1,0 +1,7 @@
+Preamp: 100 dB
+Preamp: 56.7 dB
+# VSTPlugin: Library "VSTPlugins\ReverbSolo (1).dll" ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABAAQAAAAEAcME+R0MJSq8EhwA="
+Filter: ON HPQ Fc 60.4 Hz Q 0.3333
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsULj4AAAAAcD0KPwAAgD8="

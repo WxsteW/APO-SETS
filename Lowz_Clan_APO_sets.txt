@@ -1,0 +1,8 @@
+VSTPlugin: Library Wider.dll ChunkData "PQoXPw=="
+VSTPlugin: Library Wider.dll ChunkData "AAAAPw=="
+Preamp: 4.03 dB
+Preamp: 9.41 dB
+Preamp: 75 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0KFz8AAAA/AAAAPwAAgD8="
+VSTPlugin: Library GStereo.dll
+Filter: ON HPQ Fc 249 Hz Q 0.7071

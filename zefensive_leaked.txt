@@ -1,0 +1,8 @@
+Preamp: 100 dB
+Filter: ON HP Fc 248 Hz
+VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIfgAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHByb2dyYW1uYW1lPSJTdGFydHVwIiBjYXRlZ29yeT0iY2F0ZWdvcnkgMSIgdm9sdW1lPSIxLjAiIGRyeXdldD0iMC41IiBzdGVyZW93aWR0aD0iMS4wIiBjaG9ydXMxZW5hYmxlPSIwLjAiIGNob3J1czJlbmFibGU9IjAuMCIvPjwvcHJvZ3JhbXM+PG1pZGltYXAvPjwvdGFsPgA="
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library GGain2.dll Gain 1
+Preamp: 100 dB
+Preamp: 100 dB
+VSTPlugin: Library Wider_1.dll ChunkData "OY7jPg=="

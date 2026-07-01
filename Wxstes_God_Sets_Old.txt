@@ -1,0 +1,6 @@
+Preamp: 100 dB
+Filter: ON HP Fc 10 Hz
+VSTPlugin: Library GStereo.dll Freq1 0.672098 Width3 1 Freq2 1 Width1 0 Width2 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMLD9dj2I/AACAPwAAgD8="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1

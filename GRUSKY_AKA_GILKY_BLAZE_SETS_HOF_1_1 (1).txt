@@ -1,0 +1,8 @@
+Preamp: 100 dB
+Preamp: 100 dB
+Preamp: 100 dB
+Preamp: 100 dB
+VSTPlugin: Library Wider.dll ChunkData "UO3UPg=="
+Filter: ON HPQ Fc 141.26 Hz Q 0.3333
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDcyMDAwMDA4MDc2NDI5MzY3MDY1IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# VSTPlugin: Library ReverbSolo1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABBAQAAAAAAAAA+R0MJSq8EhwA="

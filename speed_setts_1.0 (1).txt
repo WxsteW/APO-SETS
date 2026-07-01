@@ -1,0 +1,4 @@
+Filter: ON LP Fc 20000 Hz
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 99 Attenuation 1.0
+Delay: 50 ms
+Preamp: 100 dB

@@ -1,0 +1,3 @@
+Preamp: 20 dB
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="

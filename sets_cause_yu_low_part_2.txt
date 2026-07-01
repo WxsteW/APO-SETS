@@ -1,0 +1,6 @@
+# for yeti and snowball and any other mic i guess stinky dummy  stondo
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsALJzXZEMs6jl58+fiSsuEt8C4GT4AAAAAJqZWT8fhSs/9iicPgAAAD8="
+Preamp: 35 dB
+VSTPlugin: Library Wider.dll ChunkData "oQ7qPg=="
+Filter: ON HP Fc 20 Hz

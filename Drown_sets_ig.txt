@@ -1,0 +1,6 @@
+# VSTPlugin: Library Wider.dll ChunkData "ZmamPg=="
+VSTPlugin: Library BL-Precedence.dll DelayNorm 0.3125
+Preamp: 22 dB
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTUxOTk5OTgzOTM2NTQ4MjMzMDMiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTUxOTk5OTgzOTM2NTQ4MjMzMDMiIHN0ZXJlb1R5cGU9IjAiLz4A"
+Device: God Yeti Classic {3d75c5be-3313-4087-a18b-fba999b33a96}

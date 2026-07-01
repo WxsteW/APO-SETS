@@ -1,0 +1,7 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAEjhOj8fhSs/pHAdPwAAAD9QS1NCAAAAAEjhOj+QwjU/cT0KPwrXAz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsANybclMM7sYU7StFCUX/ecCFllMMAAAAAHE9Kj8zMzM/cT0KP65HYT8="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library Wider.dll ChunkData "kQqpPg=="
+VSTPlugin: Library Wider.dll ChunkData "iYiIPg=="
+VSTPlugin: Library GStereo.dll Freq1 1 Width3 0 Freq2 1 Width1 0 Width2 0.94
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPkjhGj8="

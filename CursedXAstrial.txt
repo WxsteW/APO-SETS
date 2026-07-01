@@ -1,0 +1,6 @@
+Copy: L=L+R R=L+R
+Preamp: 10 dB
+Filter: ON HSC 13.4444 dB Fc 10 Hz Gain 10 dB
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDMyMDAwMDAxNTE5OTE4NDQxNzcyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library Wider.dll ChunkData "jLxIPw=="
+Filter: ON HP Fc 248 Hz

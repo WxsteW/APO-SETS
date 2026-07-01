@@ -1,0 +1,5 @@
+# Preamp: 25 dB
+Filter: ON NO Fc 28.25 Hz
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 98 Attenuation 0.0
+Filter: ON HPQ Fc 86.5 Hz Q 0.3333
+VSTPlugin: Library CordKiller.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANijsD57FK4+PgpXP6NwPT8="

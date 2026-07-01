@@ -1,0 +1,5 @@
+Copy: L=3.0*L+R R=L+3.0*R
+Preamp: 12.5 dB
+Filter: ON HPQ Fc 33.12 Hz Q 0.3331
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQzUz/XoxA/exSuPtejED8="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIyIi8+AA=="

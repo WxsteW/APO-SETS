@@ -1,0 +1,6 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library Wider.dll ChunkData "F2zBPg=="
+Filter: ON HSC Fc 248 Hz Gain 15 dB Q 0.6674
+VSTPlugin: Library SweetDrums_x64.dll Bypass 1 Output 1 Process 1 Input 0
+VSTPlugin: Library GGain.dll Gain 0.88
+Preamp: 20 dB

@@ -1,0 +1,20 @@
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABAAQAAAAEAcME+R0MJSq8EhwA="
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library ReverbSolo1.dll
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="

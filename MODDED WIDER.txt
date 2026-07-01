@@ -1,0 +1,2 @@
+
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="

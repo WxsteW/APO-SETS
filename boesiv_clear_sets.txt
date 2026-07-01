@@ -1,0 +1,4 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvXIz8fhSs/9iicPgAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT/NzCw/9iicPgAAgD8="
+VSTPlugin: Library Wider_1.dll ChunkData "mpmZPg=="
+VSTPlugin: Library Wider_1.dll ChunkData "MzOzPg=="

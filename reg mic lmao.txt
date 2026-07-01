@@ -1,0 +1,5 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAIopMSMJJ9JublyZLYIfgjATFhNXAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AP4A/gAASf4AAJD+AABo/gAAL/7+AAAAAAAAAD8AAAA/AAAAPwAAgD8="
+VSTPlugin: Library Wider.dll ChunkData "5Cs+Pg=="
+Filter: ON HS Fc 20 Hz Gain 10 dB
+Preamp: 55 dB

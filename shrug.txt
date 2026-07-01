@@ -1,0 +1,5 @@
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+LoudnessCorrection: State 1 ReferenceLevel 99 ReferenceOffset 96 Attenuation 1.0
+Copy: C=99.0*C+99.0*C+99.99dB*C+99.0+99.9
+Preamp: 50 dB
+Filter: ON PK Fc 20000 Hz Gain 100 dB BW Oct 6.7442

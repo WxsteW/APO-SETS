@@ -1,0 +1,8 @@
+Preamp: 100 dB
+# VSTPlugin: Library "ReverbSolo (1).dll" ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAABI4Zo/AQAAAHpbf8A+R0MJSq8EhwA="
+VSTPlugin: Library Blundu_Stereo.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQwMDAwMDA2NTU2NTEwOTI1MjkzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Filter: ON HSC Fc 45.5 Hz Gain 20 dB Q 0.5819
+Include: fold.txt
+Filter: ON HP Fc 100 Hz
+Filter: ON HP Fc 100 Hz
+Preamp: 11.4 dB

@@ -1,0 +1,3 @@
+Filter: ON BP Fc 1000 Hz Q 0.3333
+Preamp: 100 dB
+Filter: ON HPQ Fc 138.37 Hz Q 0.3333

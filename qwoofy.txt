@@ -1,0 +1,6 @@
+# Include: peace.txt
+Preamp: 100 dB
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library DeeWider.dll ChunkData "VkMyIWwAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJNYWluPSIxLjAiIGRiQ29sb3I9IjAuMCIgZGJEdW89IjAiLz4A"
+Filter: ON HPQ Fc 20 Hz Q 0.3333

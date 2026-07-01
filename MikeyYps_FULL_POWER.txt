@@ -1,0 +1,8 @@
+Preamp: 100 dB
+Preamp: 100 dB
+VSTPlugin: Library Wider.dll ChunkData "ZmZmPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library DimensionExpander_x64.dll on/off 1 Size 0 Dry/Wet 1
+VSTPlugin: Library ReverbSolo.dll

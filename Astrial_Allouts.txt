@@ -1,0 +1,7 @@
+Preamp: 65 dB
+Preamp: 39.85 dB
+Filter: ON HSC 10.4444 dB Fc 20 Hz Gain 20 dB
+Filter: ON HSC 12 dB Fc 80 Hz Gain 26 dB
+VSTPlugin: Library GGain.dll Gain 0.6825
+VSTPlugin: Library GGain.dll Gain 0.775
+VSTPlugin: Library Wider.dll ChunkData "5Cu+Pg=="

@@ -1,0 +1,9 @@
+Preamp: 80 dB
+Preamp: 48.3 dB
+Preamp: 55.3 dB
+Preamp: 99.4 dB
+Preamp: 70 dB
+Preamp: 40 dB
+Preamp: 80 dB
+Filter: ON HPQ Fc 68.4 Hz Q 3.3332
+VSTPlugin: Library Wider.dll ChunkData "AACAPg=="

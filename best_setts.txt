@@ -1,0 +1,31 @@
+Preamp: 100 dB
+Filter: ON HP Fc 20000 Hz
+Filter: ON LP Fc 20000 Hz
+Filter: ON PK Fc 20000 Hz Gain 100 dB Q 10
+Filter: ON PK Fc 20000 Hz Gain 100 dB Q 10
+Filter: ON PK Fc 20000 Hz Gain 100 dB Q 10
+Filter: ON PK Fc 20000 Hz Gain 100 dB Q 10
+Include: 
+Preamp: 100 dB
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HP Fc 20000 Hz
+Filter: ON HPQ Fc 20000 Hz Q 3.5716
+Filter: ON HPQ Fc 20000 Hz Q 3.5716
+Filter: ON HPQ Fc 20000 Hz Q 3.5716
+Filter: ON HPQ Fc 20000 Hz Q 3.5716
+Filter: ON HPQ Fc 20000 Hz Q 3.5716
+Filter: ON HPQ Fc 20000 Hz Q 30.8232
+Filter: ON HPQ Fc 20000 Hz Q 22.5359

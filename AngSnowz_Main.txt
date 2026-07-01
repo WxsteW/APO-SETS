@@ -1,0 +1,5 @@
+Filter: ON HSC 1.4218 dB Fc 20 Hz Gain 20 dB
+Filter: ON HSC 2.0084 dB Fc 20 Hz Gain 20 dB
+VSTPlugin: Library Wider.dll ChunkData "xUosPg=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="

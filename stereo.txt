@@ -1,0 +1,6 @@
+Preamp: 7 dB
+Filter: ON HS Fc 20 Hz Gain 3 dB
+VSTPlugin: Library Wider.dll ChunkData "exQuPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library FREE87_FR-COMPx64.dll Attack 0 MakeUp 0.435 Limiter 0 Thrshld 1 Release 0
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDc4OTk5OTk2MTg1MzAyNzM0Mzc1IiBzdGVyZW9UeXBlPSIwIi8+AA=="

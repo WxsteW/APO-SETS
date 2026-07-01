@@ -1,0 +1,12 @@
+Preamp: 100 dB
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+Filter: ON HPQ Fc 24.95 Hz Q 0.3333
+# VSTPlugin: Library DragonflyEarlyReflections.dll "Dry Level" 1 "High Cut" 0.53 "Low Cut" 0.39 Width 0.655 "Wet Level" 0.386503 Program 0.333333 Size 0.09
+# VSTPlugin: Library "Marvel GEQ.dll" ChunkData "AAAAAAAAAAAAAAAAAAAAAGFwcnMqBwAAMgDBAHic42FgYDA0s0i0cklNSyzNKeED8nmBOKmyILG4WDc1LzEpJ9UaKCANxImlKZn5ern5Kb6JmXl6KEoYgdIgzAClYWwQ4ADi9KL80oLi1BwzIFsMwyiYLD5TQK7KzCsuScxLTtXNS8xNdcfqKhQljEjmoGNkO0RBZufrFiQWJeYWQ1wD1l98CyihjGkHNqXo5nMgsdmAODjENcjVnwkqwgzE7rpGzChcYxYUrgkrCteUDYVrxo7CNedA4VrAuExQIZDRrFCnsEOdJ4Tp7cy89AqgqAIhPwPVoQckBwMu8MEelWZwQKU54LQUiosy83STMxLz8lJzIEGcBpTVwOMydPXoUcKExvdBFghiQlIlgu4OoJ9LgH6uAoor4XcBVCXu0MEIBaIBanzlFgNZmUXFhOILpo74+CIeoGYcoM9h3q9mwJ9xkJTSIqSkUdxVnJFfrpuYkwNLHcWeQGlNPK7D0ICvYALFCtiIorLUHHfXQL10oGHFOxiwxQqmOnSTBYB4/V2T8HCdb/ZO+UF6P+P/20+smcakw8bkILl/hvpGXmaHw4c0p5b4fLbvDD17P4Tjs/3nOzFFP05/sHd9kX21++BHe5g82/tVEx83fbLP22bS1Sv8xz5vxn7BP2qcDluPT+p0V+DASYth+AhaPhu5AGVUCPgKphZfmPFDbPAvLXEHl/9AwhYoJIvNaGRF2Mx8kBskb3OT34EbyC4oSi1OLQHnfh8gVxLDPCQF+CoHUAkJrRFhQgD9fGhe"
+# VSTPlugin: Library BLStereoPan.dll LeftPan 1 RightPan 0
+# VSTPlugin: Library "FREE87 FR COMP.dll" Attack 0.666667 MakeUp 1 Limiter 0 Thrshld 1 Release 0.666667
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 100 dB
+# VSTPlugin: Library Clipmaxx64.dll ChunkData "VkMyIYUAAAA8Um9vdD48UHJlR2Fpbj4yNDwvUHJlR2Fpbj48Q2VpbGluZz4wPC9DZWlsaW5nPjxQb3N0R2Fpbj4yNDwvUG9zdEdhaW4+PEF1dG9HYWluPjA8L0F1dG9HYWluPjxDdXQ+MDwvQ3V0PjxDbGlwTW9kZT4wPC9DbGlwTW9kZT48L1Jvb3Q+AA=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="

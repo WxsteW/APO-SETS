@@ -1,0 +1,6 @@
+# sets made by ! Geekn#0002
+Preamp: 45 dB
+Filter: ON HPQ Fc 144 Hz Q 0.615
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library GGain.dll Gain 0.66

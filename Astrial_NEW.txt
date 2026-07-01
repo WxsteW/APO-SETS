@@ -1,0 +1,5 @@
+Preamp: 20 dB
+VSTPlugin: Library Wider.dll ChunkData "xUqsPg=="
+VSTPlugin: Library BL-Gain60.dll Gain 1
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDI2MDAwMDExNzEyMzEyNjk4MzY0IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library GGain.dll Gain 0.78

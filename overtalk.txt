@@ -1,0 +1,8 @@
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+Filter: ON HPQ Fc 100 Hz Q 0.3333
+Filter: ON HSC 13.219 dB Fc 20 Hz Gain 29 dB

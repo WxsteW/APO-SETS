@@ -1,0 +1,4 @@
+Filter: ON HS Fc 110.16 Hz Gain 1.48 dB
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAOcNA5yL1QP8tcxHs54iRYl17pudAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"

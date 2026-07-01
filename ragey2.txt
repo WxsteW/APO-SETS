@@ -1,0 +1,5 @@
+Preamp: 100 dB
+VSTPlugin: Library TAL_Chorus_LX.dll ChunkData "VkMyIdIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHZvbHVtZT0iMS4wIiBkcnl3ZXQ9IjAuMDkyMDAwMDE1MDc5OTc1MTMiIHN0ZXJlb3dpZHRoPSIxLjAiIGNob3J1czFlbmFibGU9IjAuMCIgY2hvcnVzMmVuYWJsZT0iMC4wIi8+PC9wcm9ncmFtcz48L3RhbD4A"
+VSTPlugin: Library Wider.dll ChunkData "/cu/Pg=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAABmZqY/AQAAAAHxz8A+R0MJSq8EhwA="
+Filter: ON HPQ Fc 91.42 Hz Q 0.3333

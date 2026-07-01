@@ -1,0 +1,5 @@
+Preamp: 50 dB
+Preamp: 50 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAAAAAACAPwAAgD8="
+VSTPlugin: Library Wider.dll ChunkData "/cu/Pg=="
+Filter: ON HPQ Fc 179.9 Hz Q 0.3333

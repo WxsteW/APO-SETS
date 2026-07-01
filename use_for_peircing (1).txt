@@ -1,0 +1,10 @@
+Preamp: 30 dB
+Preamp: 100 dB
+Preamp: 100 dB
+Filter: ON HPQ Fc 152.42 Hz Q 0.3333
+Filter: ON HS Fc 100 Hz Gain 20 dB
+LoudnessCorrection: State 1 ReferenceLevel -50 ReferenceOffset -15 Attenuation 0.34
+VSTPlugin: Library DeeWider.dll ChunkData "VkMyIXsAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJNYWluPSIwLjQ5NjAwMDAyMTY5NjA5MDciIGRiQ29sb3I9IjAuMCIgZGJEdW89IjEiLz4A"
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\Wider.dll" ChunkData "AhogPw=="
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\GGain2.dll" Gain 1
+Filter: ON NO Fc 426.61 Hz

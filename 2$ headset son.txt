@@ -1,0 +1,3 @@
+Preamp: 20 dB
+Filter: ON HSC 13.4444 dB Fc 240 Hz Gain 10 dB
+Filter: ON HP Fc 326 Hz

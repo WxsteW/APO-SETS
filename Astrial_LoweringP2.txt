@@ -1,0 +1,5 @@
+Device: Astrials Yeti Yeti Nano {411b0224-669d-49c2-8e6c-9366301af8af}
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDI5MDAwMDA2NjE2MTE1NTcwMDY4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Copy: L=L+R R=L+R
+VSTPlugin: Library Wider.dll ChunkData "/cs/Pg=="
+Preamp: 20 dB

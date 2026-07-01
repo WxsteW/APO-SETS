@@ -1,0 +1,4 @@
+Filter: ON LPQ Fc 4600 Hz Q 33.3333
+Filter: ON HPQ Fc 334.99 Hz Q 33.3333
+VSTPlugin: Library Wider.dll ChunkData "8y//Pg=="
+Preamp: 100 dB

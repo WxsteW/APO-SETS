@@ -1,0 +1,216 @@
+
+# VSTPlugin: Library "vst plugins\VSTPlugins\VSTPlugins\Blundu_Stereo.dll" ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# Filter: ON HP Fc 100 Hz
+# Filter: ON HP Fc 100 Hz
+# Filter: ON HP Fc 100 Hz
+# Filter: ON HP Fc 330.39 Hz
+# Filter: ON HP Fc 100 Hz
+# Filter: ON HSC Fc 20 Hz Gain 100 dB Q 1.1826
+# Include: Clekcs_X_Aperti_Audio_Sets.txt
+# Include: bestovertalk_use_mic_gain.txt
+# Include: hi.txt
+# 
+# Include: looneys_official_loud_mic.txt
+# Include: use for peircing.txt
+# Include: Aperti_Sets.txt
+# 
+# Include: tworb.txt
+# Include: Blaze_negro.txt
+# 
+# 
+# 
+# 
+# 
+# Include: loudest on cord.txt
+# Include: 6reedo_loud_mid_sets_for_blazing-1.txt
+# Include: KILL_EM_THIZZKID.txt
+# Include: japan.txt
+# Include: ssss.txt
+# Include: nigger k.txt
+# Include: qwoofy.txt
+# Include: whjatever.txt
+# Include: stambo.txt
+# Include: sonson.txt
+# Include: looneys official loud mic.txt
+# Include: high.txt
+# Include: chief (2).txt
+# Include: loudlist.txt
+# Include: A6stereo is cute.txt
+# Include: apert.txt
+# Include: wreedosslicing.txt
+# Include: clips_setts.txt
+# VSTPlugin: Library DimensionExpander_x64.dll on/off 1 Size 1 Dry/Wet 1
+# Include: Wxstes_God_Sets.txt
+# Include: loud_blaze_setts.txt
+# Include: ocs main.txt
+# Include: test clear.txt
+# Include: clear method v1.txt
+# Include: clear.txt
+# Include: clear brtu.txt
+# Include: yeah.txt
+# Include: New Text Document.txt
+# Include: donoshyblaze.txt
+# Include: my_sets.txt
+# Include: test mainsW.txt
+# Include: clearing.txt
+# Include: OVERTALK_METHOD_XD.txt
+# Include: kill_sets.txt
+# Preamp: 20 dB
+# Include: Mono HOF BLAZE FOR STAGE.txt
+# mains
+# Include: lowering method.txt
+# Include: zef main.txt
+# Include: speed blaze.txt
+# Include: sinful_30_sets.txt
+# Include: BASS_SETTS.txt
+# Include: sinful_clearest_sets.txt
+# Include: GRUSKY_AKA_GILKY_BLAZE_SETS_HOF_1_1.txt
+# Include: mayedsAzekillingsets.txt
+# Include: astrial leaked.txt
+# Include: bloofy.txt
+# Include: wider.dll.txt
+# Include: MONOS_GAY.txt
+# Include: skies_blaze.txt
+# Include: new clear.txt
+# Include: shaab.txt
+# Include: jajajjjaaajaa.txt
+# Include: lmfaoo.txt
+# Include: included.txt
+# mains above
+# Include: lurq blaze.txt
+# VSTPlugin: Library Auto-Tune_Access.dll ChunkData "VkMyIZ4FAAA8U2Vzc2lvbkNodW5rRGF0YT48Q2h1bmtGb3JWZXJzaW9uIENodW5rVmVyc2lvbj0iOS4wLjAuMSI+PFBhcmFtZXRlcnM+PEFUQUNDRVNTPjxQQVJBTSBpZD0iTWFzdGVyQnlwYXNzX0lEIiB2YWx1ZT0iMC4wMDAwMDAwMDAwMDAwMDAwMDAwMCIvPjxQQVJBTSBpZD0iUmV0dW5lU3BlZWRfSUQiIHZhbHVlPSIyLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJIdW1hbml6ZV9JRCIgdmFsdWU9IjAuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IktleV9JRCIgdmFsdWU9IjExLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJTY2FsZV9JRCIgdmFsdWU9IjAuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IlRyYWNraW5nX0lEIiB2YWx1ZT0iMS4wMDAwMDAwMDAwMDAwMDAwMDAwMCIvPjxQQVJBTSBpZD0iQ0tleV9JRCIgdmFsdWU9IjAuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IkNTaGFycEtleV9JRCIgdmFsdWU9IjEuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IkRLZXlfSUQiIHZhbHVlPSIwLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJEU2hhcnBLZXlfSUQiIHZhbHVlPSIwLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJFS2V5X0lEIiB2YWx1ZT0iMS4wMDAwMDAwMDAwMDAwMDAwMDAwMCIvPjxQQVJBTSBpZD0iRktleV9JRCIgdmFsdWU9IjAuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IkZTaGFycEtleV9JRCIgdmFsdWU9IjEuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IkdLZXlfSUQiIHZhbHVlPSIwLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJHU2hhcnBLZXlfSUQiIHZhbHVlPSIxLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJBS2V5X0lEIiB2YWx1ZT0iMC4wMDAwMDAwMDAwMDAwMDAwMDAwMCIvPjxQQVJBTSBpZD0iQVNoYXJwS2V5X0lEIiB2YWx1ZT0iMS4wMDAwMDAwMDAwMDAwMDAwMDAwMCIvPjxQQVJBTSBpZD0iQktleV9JRCIgdmFsdWU9IjEuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IkhvbGRNZXRlcl9JRCIgdmFsdWU9IjAuMDAwMDAwMDAwMDAwMDAwMDAwMDAiLz48UEFSQU0gaWQ9IlNldHRpbmdzX0lEIiB2YWx1ZT0iMC4wMDAwMDAwMDAwMDAwMDAwMDAwMCIvPjwvQVRBQ0NFU1M+PC9QYXJhbWV0ZXJzPjxQcmVmZXJlbmNlcz48RW5hYmxlQXV0b0tleT50cnVlPC9FbmFibGVBdXRvS2V5PjxDaGVja0ZvclVwZGF0ZXM+dHJ1ZTwvQ2hlY2tGb3JVcGRhdGVzPjxLbm9iU3R5bGU+Q2lyY3VsYXI8L0tub2JTdHlsZT48VHJhY2tpbmc+dHJ1ZTwvVHJhY2tpbmc+PFNob3dUb29sVGlwcz50cnVlPC9TaG93VG9vbFRpcHM+PC9QcmVmZXJlbmNlcz48Q3VzdG9tLz48L0NodW5rRm9yVmVyc2lvbj48L1Nlc3Npb25DaHVua0RhdGE+AA=="
+# Include: leaking these shits.txt
+# Include: audio_setts.txt
+# Include: screensharesets.txt
+# 
+# Include: Unhoeable_X_Mumbles.txt
+# Include: Blerdo.txt
+# Include: ghsrhrsthsr.txt
+# Include: ChiefJusiceXXX.mb.txt
+# Include: extraloud.txt
+# Include: kkk.txt
+# Include: loudest on cord thanks for buying.txt
+# Include: loud mic test.txt
+# Include: leak setts.txt
+# Include: HOF blaze.txt
+# Include: wirls  loudest setts made by a pro.txt
+# 
+# 
+# 
+# 
+# 
+# Include: entityss.txt
+# 
+# 
+# use
+# Include: overtalk12.txt
+# 
+# use
+# 
+# Include: 1st_sets_SOLD_ever.txt
+# 
+# 
+# Include: chief.txt
+# 
+# 
+# Include: entity_setts (1).txt
+# Include: looneys_official_loud_mic.txt
+# Include: chief (2).txt
+# VSTPlugin: Library ReverbSolo1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABBAQAAADaX08A+R0MJSq8EhwA="
+# Preamp: 8.6 dB
+# 
+# 
+# 
+# 
+# 
+# Include: hubby_blaze_setts (1).txt
+# 
+# 
+# 
+# 
+# Include: bees_2.txt
+# Include: kashhstamset.txt
+# Include: best_setts.txt
+# Include: maco.txt
+# Include: entitys_original_setts (1).txt
+# Include: clear method.txt
+# Include: ragey3.txt
+# Include: loudgirl.txt
+# Include: sap_loud_2.txt
+# Include: soround sound.txt
+# Include: clearnigg.txt
+# Include: son.txt
+# Include: the df ender.txt
+# VSTPlugin: Library GStereo.dll Freq1 1 Freq2 1 Width3 1 Width1 1 Width2 1
+# VSTPlugin: Library GStereo.dll Freq1 1 Freq2 0 Width3 0.4075 Width1 1 Width2 1
+# 
+# Include: zlows setts.txt
+# Copy: L=99.0*L+L+R+99.99 R=L+99.0*R+R+R+R+99.0+50.0 RR=99.0*RL w=99.0*L+R+99.99
+# Device: MIC Yeti Classic {08f6c98a-e7db-45c5-a004-a8dfc1f34320}
+# Include: tworbii2_1.txt
+# Include: group setts.txt
+# VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMS4wMDAsMC42MDAsMC4wMDAsMS4wMDAsMS4wMDAsMC4wMDAsMC4wMDAA"
+# Include: Zlowz_Free_Sets.txt
+# Include: loud_blaze_setts.txt
+# Include: Anthony_Low_Remade_sets.txt
+# Include: Lowz_Clan_APO_sets.txt
+# Include: tworb.txt
+# Include: Loudest_HOF_Sets_God_Method.txt
+# Include: overtalk12.txt
+# Include: loudlist.txt
+# Include: Sixclearsetts.txt
+# Include: bap.txt
+# Include: velo.txt
+# Include: bapanese_cooking_you.txt
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAzM5M/AQAAAMTMEsE+R0MJSq8EhwA="
+# Include: Six.txt
+# Include: my_swag.txt
+# Include: zoh_overtalk (1).txt
+# 
+# Include: zion.txt
+# VSTPlugin: Library ClipShifter_x64.dll ChunkData "dGZmcAAAAQAAAAAAwNPTQAEAAAACAAAAAAAAAAMAAAAAAAAAAQAAAAAAAAALAAAAAAAAABOge/8ToHv/AAAAAAAANkAAAAAAAAA2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAPA/hm/qgkZUfUAAAAAAAIizQAAAAAAAAPA/AAAAAAAAAAAAAAAAAAA0QAAAAAAAAPC/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANEAAAAAAAIjTQAAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZQAAAAAAAAFRAAAAAAADAZ0AAAAAAAOBvQAAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAAAAAAAAAAAABZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+# Include: Venom_overtalk.txt
+# Include: creedo.txt
+# Include: cuh.txt
+# 
+# Include: DUAL_SETS-1.txt
+# Include: extraloud.txt
+# Include: kj w setts leaked by looney thanks for buying.txt
+# Include: extraloud.txt
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOF6VD9cjwI/9ig8P1K4fj8="
+# Include: CLEAR BOI.txt
+# Include: kill_sets.txt
+# VSTPlugin: Library BL-Gain60.dll Gain 1
+# Preamp: 28 dB
+# Preamp: 20 dB
+# Preamp: 20 dB
+# Preamp: 20 dB
+# Include: clear method v1.txt
+# Include: clear_sets.txt
+# Include: awp_loud_sets_1.txt
+# Include: ass mic.txt
+# 
+# Include: sinful_all_out_sets.txt
+# Include: Clear_Blazing_Sets.txt
+# giving
+# Include: entitys_original_setts (1).txt
+# Include: entitys original setts.txt
+# Include: cuh.txt
+# Include: overtalk any1.txt
+# Include: CLEAR BOI.txt
+# 
+# Include: ass_setts.txt
+# Include: LOUDEST_ON_CORD.txt
+# Filter: ON LPQ Fc 387.28 Hz Q 1.2672
+# Include: poop.txt
+# Include: qwoofy leaked setts ololololololol.txt
+# Include: pls dont crash.txt
+# Include: audio boost.txt
+# Include: VOICE.txt
+# Include: CRAZY_SETS_WILL_RAPE_UR_OPPONET.txt
+# Include: 4321.txt
+# Include: 2s_overtalk.txt
+# Include: 2_god_stam_.txt
+# Include: Mono main clear.txt
+# Include: ezezez.txt
+# Include: overtalk power 100 thanks for buying.txt

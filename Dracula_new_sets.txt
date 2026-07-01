@@ -1,0 +1,4 @@
+Preamp: 25 dB
+Preamp: 50 dB
+VSTPlugin: Library Clipmaxx64.dll ChunkData "VkMyIYUAAAA8Um9vdD48UHJlR2Fpbj4yNDwvUHJlR2Fpbj48Q2VpbGluZz4wPC9DZWlsaW5nPjxQb3N0R2Fpbj4yNDwvUG9zdEdhaW4+PEF1dG9HYWluPjA8L0F1dG9HYWluPjxDdXQ+MDwvQ3V0PjxDbGlwTW9kZT4wPC9DbGlwTW9kZT48L1Jvb3Q+AA=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="

@@ -1,0 +1,17 @@
+Device:  ENDED A TROLL WITH THIS Yeti Classic {3cb3448a-ff9b-400b-88a0-34561f04defc}
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1

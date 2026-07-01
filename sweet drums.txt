@@ -1,0 +1,7 @@
+# VSTPlugin: Library SweetDrums_x64.dll Bypass 1 Output 1 Process 1 Input 0
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPhSuJz8="
+# VSTPlugin: Library Wider.dll ChunkData "/3xpPg=="
+# Filter: ON HS Fc 110 Hz Gain 9 dB
+# Preamp: 9 dB
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQ5MDAwMDA5ODk0MzcxMDMyNzE1IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# VSTPlugin: Library GGain.dll Gain 0.7475

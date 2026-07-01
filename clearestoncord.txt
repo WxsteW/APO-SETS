@@ -1,0 +1,3 @@
+Preamp: 20 dB
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\basiQ.dll" ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPkjh+j4="
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\Wider.dll" ChunkData "vciLPg=="

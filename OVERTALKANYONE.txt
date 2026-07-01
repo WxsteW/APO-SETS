@@ -1,0 +1,5 @@
+Preamp: 40 dB
+LoudnessCorrection: State 1 ReferenceLevel -24 ReferenceOffset 99 Attenuation 1.0
+Filter: ON HPQ Fc 20 Hz Q 1.4752
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\QuickHaas.dll"
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\UpStereo.dll" ChunkData "VkMyIb4AAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8VVBTVF8zIHVpSGVpZ2h0PSI1MTIiIHBhckdhaW49IjAuMTg5NjU1MTY5ODQ0NjI3NCIgcGFyU3RlcmVvV2lkdGg9IjEuMCIgcGFyTG91ZFR5cGU9IjAuNzUiIHBhckFjdGl2ZT0iMC41IiBwYXJBaXI9IjEuMCIgcGFyQmFzcz0iMC41NjAwMDAwMDIzODQxODU4Ii8+AA=="

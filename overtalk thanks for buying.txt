@@ -1,0 +1,5 @@
+Preamp: 100 dB
+Preamp: 100 dB
+Preamp: 100 dB
+VSTPlugin: Library Wider.dll ChunkData "AACAPg=="
+Filter: ON HPQ Fc 207.98 Hz Q 0.3333

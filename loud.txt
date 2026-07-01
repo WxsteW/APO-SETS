@@ -1,0 +1,5 @@
+VSTPlugin: Library quickhaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDcwOTk5OTkxMTQ4NzEwMjUwODU0IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Filter: ON HPQ Fc 100 Hz Q 0.3333
+Filter: ON HPQ Fc 100 Hz Q 0.3333
+Filter: ON PK Fc 1857.93 Hz Gain 14 dB Q 10
+Preamp: 20 dB

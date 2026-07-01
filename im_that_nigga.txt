@@ -1,0 +1,7 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAN/xTWeylfCg/fOyV99Q6bsQe+7nAAAAAFK4Hj8fhSs/9iicPgAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAEJbBccH/PM51DpADjkvZi4RihzZAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library Wider.dll ChunkData "i6/4Pg=="
+VSTPlugin: Library Wider.dll ChunkData "Co9wPg=="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvXIz8fhSs/9iicPgAAgD8="
+VSTPlugin: Library GGain.dll Gain 1

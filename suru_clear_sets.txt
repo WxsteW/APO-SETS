@@ -1,0 +1,11 @@
+VSTPlugin: Library GGain.dll Gain 1
+Preamp: 20 dB
+VSTPlugin: Library Wider.dll ChunkData "2Y/9PQ=="
+VSTPlugin: Library GGain.dll
+Filter: ON HS Fc 47.43 Hz Gain 20 dB
+Filter: ON HP Fc 76.39 Hz
+Filter: ON HS 0.3333 dB Fc 778.09 Hz Gain 20 dB
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library BL-Gain60.dll Gain 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="

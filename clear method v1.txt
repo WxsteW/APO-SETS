@@ -1,0 +1,6 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArXYz8AAAAAexTuPl2Pgj4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJDCdT4yMzM+AACAPwAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AP7+/gD+/v4A/v7+AP7+/gD+/v4AAAAAAKRwvT6kcD0/AAAAP69HIT8="
+Filter: ON HPQ Fc 20000 Hz Q 0.3333
+VSTPlugin: Library Wider.dll ChunkData "1miNPg=="
+Preamp: 7.6 dB

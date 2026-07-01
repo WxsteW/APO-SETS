@@ -1,0 +1,12 @@
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library BL-Gain60.dll Gain 0.71875
+VSTPlugin: Library DimensionExpander_x64.dll on/off 1 Size 0 Dry/Wet 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsALVIILFIKEUdDzpbRqoIqpaTL6tsAAAAAJqZWT8fhSs/9iicPgAAAD8="

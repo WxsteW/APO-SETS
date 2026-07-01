@@ -1,0 +1,2 @@
+Preamp: 100 dB
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABAAQAAAAEAcME+R0MJSq8EhwA="

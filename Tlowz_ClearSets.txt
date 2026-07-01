@@ -1,0 +1,3 @@
+Preamp: 30 dB
+Filter: ON HS Fc 308.34 Hz Gain 20 dB
+VSTPlugin: Library Wider.dll ChunkData "JUkSPg=="

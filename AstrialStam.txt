@@ -1,0 +1,9 @@
+
+Filter: ON LSC Fc 2000 Hz Gain 25 dB Q 100
+Preamp: 100 dB
+Filter: ON LSC Fc 1032.83 Hz Gain 10 dB Q 100
+Filter: ON LSC Fc 9345 Hz Gain 15 dB Q 123.494
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABBAQAAAAAAAAA+R0MJSq8EhwA="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Preamp: 100 dB
+Filter: ON HSC Fc 20483 Hz Gain 10 dB Q 373.439

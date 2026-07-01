@@ -1,0 +1,4 @@
+# Preamp: 26 dB
+# Filter: ON LS Fc 100.5 Hz Gain 0.5 dB
+# Filter: ON LS Fc 100.5 Hz Gain 0.5 dB
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJmZOT8AAIA/7FFYPwAAgD8="

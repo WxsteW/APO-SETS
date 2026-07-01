@@ -1,0 +1,8 @@
+Preamp: 100 dB
+Preamp: 100 dB
+Delay: 5.01 ms
+VSTPlugin: Library Wider.dll ChunkData "O6iDPg=="
+Filter: ON HPQ Fc 72.78 Hz Q 0.3333
+VSTPlugin: Library GGain.dll Gain 0.8375
+VSTPlugin: Library GGain.dll Gain 0.8375
+VSTPlugin: Library GGain.dll Gain 0.8375

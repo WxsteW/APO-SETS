@@ -1,0 +1,7 @@
+VSTPlugin: Library Wider.dll ChunkData "JUkSPg=="
+Preamp: 50 dB
+Filter: ON HP Fc 192.77 Hz
+Filter: ON HS Fc 20 Hz Gain 20 dB
+VSTPlugin: Library Wider.dll ChunkData "AQ3QPQ=="
+VSTPlugin: Library FreedoPLug.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA2OTk5OTk5Mjg0NzQ0MjYyNjk1MyIgc3RlcmVvVHlwZT0iMSIvPgA="
+VSTPlugin: Library FreedoPLug.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDczMDAwMDA2Mzc3Njk2OTkwOTY3IiBzdGVyZW9UeXBlPSIyIi8+AA=="

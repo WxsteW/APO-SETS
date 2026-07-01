@@ -1,0 +1,5 @@
+Filter: ON HP Fc 248 Hz
+VSTPlugin: Library Wider_1.dll ChunkData "AACAPw=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHE9yj64HiU/XI8iPwAAgD8="
+Preamp: 100 dB
+Preamp: 50 dB

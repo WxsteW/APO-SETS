@@ -1,0 +1,6 @@
+Preamp: 30 dB
+VSTPlugin: Library Vitamin_C_x64.dll Mode 1 Attack 1 Quality 1 Effect 1 Bass 0 Output 1 Blend 1 Compression 1 Ratio 1 Treble 1 Release 1 Threshold 1
+Delay: 5.75 ms
+VSTPlugin: Library Face_Bender_x64.dll Mode 1 "Fuzz Type" 1 Quality 1 Effect 1 Output 1 "FF Output" 1 "FF Fuzz" 1 "FF Input" 1 "FF Filter" 0 "FF Gate" 0 "FF Clean" 0.28 "TB Hicut" 0 "FF Locut" 0 "FF Hicut" 1 "FF Material" 1 "TB Output" 1 "TB Attack" 0 "TB Input" 1 "TB Filter" 1 "TB Gate" 0 "TB Clean" 1 "TB Locut" 1 "TB Material" 1
+LoudnessCorrection: State 1 ReferenceLevel 99 ReferenceOffset 99 Attenuation 1.0
+Filter: ON HPQ Fc 235.52 Hz Q 0.473

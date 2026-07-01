@@ -1,0 +1,5 @@
+Preamp: 100 dB
+Filter: ON HPQ Fc 500 Hz Q 0.3333
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFyPwj7hehQ/9ig8PwAAgD8="
+VSTPlugin: Library FreedoPLug.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDI5MDAwMDA2NjE2MTE1NTcwMDY4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library Wider.dll ChunkData "cg/3PQ=="

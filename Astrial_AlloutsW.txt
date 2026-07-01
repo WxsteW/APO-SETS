@@ -1,0 +1,7 @@
+# Preamp: 100 dB
+# Filter: ON HSC 12.2222 dB Fc 35 Hz Gain 20 dB
+# Filter: ON HP Fc 248 Hz
+# Filter: ON HPQ Fc 169 Hz Q 2.1932
+# VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQ1MDAwMDE2Njg5MzAwNTM3MTA5IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+# VSTPlugin: Library Wider.dll ChunkData "NU1TPg=="
+# VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIcIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHZvbHVtZT0iMS4wIiBkcnl3ZXQ9IjAuMCIgc3RlcmVvd2lkdGg9IjEuMCIgY2hvcnVzMWVuYWJsZT0iMC4wIiBjaG9ydXMyZW5hYmxlPSIwLjAiLz48L3Byb2dyYW1zPjwvdGFsPgA="

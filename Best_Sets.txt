@@ -1,0 +1,4 @@
+Preamp: 100 dB
+Preamp: 100 dB
+Filter: ON HS Fc 100 Hz Gain 20 dB
+Filter: ON HP Fc 266.7 Hz

@@ -1,0 +1,5 @@
+Preamp: 100 dB
+Preamp: 50 dB
+Filter: ON HSC Fc 62 Hz Gain 40 dB Q 1.0452
+VSTPlugin: Library Wider.dll ChunkData "vciLPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AGlwdHNcO0M6XFB5dGhvbjM5XDtDAAAAAPYoXD9wPQo/mpmZPgAAgD8="

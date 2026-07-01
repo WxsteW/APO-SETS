@@ -1,0 +1,6 @@
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\DeeWider.dll" ChunkData "VkMyIWwAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJNYWluPSIwLjUiIGRiQ29sb3I9IjAuMCIgZGJEdW89IjAiLz4A"
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\DragonflyPlateReverb-vst.dll" ChunkData "cHJlc2V0AENsZWFyIFBsYXRlAABkcnlfbGV2ZWwANzAuNTUyMTQ2OTExNgBlYXJseV9sZXZlbAAxOS4wMTg0MDIwOTk2AGFsZ29yaXRobQAwAHdpZHRoADE1MABwcmVkZWxheQAwAGRlY2F5ADEwAGxvd19jdXQAMjAwAGhpZ2hfY3V0ADEwMDAAZWFybHlfZGFtcAAxNjAwMAAA"
+Preamp: 30 dB
+Preamp: 20 dB
+LoudnessCorrection: State 1 ReferenceLevel 99 ReferenceOffset 99 Attenuation 1.0
+Filter: ON HPQ Fc 398.13 Hz Q 1.2498

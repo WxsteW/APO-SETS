@@ -1,0 +1,2 @@
+Device: Microphone Blue Snowball  {d6be2964-7f9d-4c86-8fbb-122ec9cbacb4}
+Preamp: 0 dB

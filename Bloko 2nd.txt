@@ -1,0 +1,10 @@
+Preamp: 9 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "zcxMPg=="
+# right
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDcwMDAwMDExNDczODk0MTE5MjYzIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Filter: ON HS Fc 140 Hz Gain 7 dB
+VSTPlugin: Library Proximity-x64.dll Mode 1 Delay 0 Gain 1 DistGain 0.86711 RefDist 0.13 Air 0.5 FineTune 1 ModDepth 0.009 Width 1 Proxim. 0.5 Reflect. 0 ModShape 0.5 ModSpeed 0.091
+# left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA3Nzk5OTk5Nzg4NDAzNTExMDQ3NCIgc3RlcmVvVHlwZT0iMCIvPgA="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPo/CFT8="

@@ -1,0 +1,5 @@
+Preamp: 24.9 dB
+Filter: ON HPQ Fc 79.8 Hz Q 0.7071
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAJCQkJCRkZGTk5OUlJSUlJSTk5OTAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library Wider.dll ChunkData "XcqlPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAJCQkJCRkZGTk5OUlJSUlJSTk5OTAAAAAJqZWT8fhSs/9iicPgAAAD8="

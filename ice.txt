@@ -1,0 +1,10 @@
+VSTPlugin: Library Wider.dll ChunkData "8i//Pg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJDCVT8fhSs/9iicPoXrcT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2PYj8zMzM/cT2KPkjhWj8="
+VSTPlugin: Library Wider.dll ChunkData "B2gAPw=="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQzMDAwMDIwMDg2NzY1Mjg5MzA3IiBzdGVyZW9UeXBlPSIzIi8+AA=="
+VSTPlugin: Library GGain.dll Gain 0.7525
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDY0MDAwMDAzMDM5ODM2ODgzNTQ1IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Filter: ON HPQ Fc 20 Hz Q 0.9
+Filter: ON HPQ Fc 20 Hz Q 0.9
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAAA/AQAAAAAAAAA+R0MJSq8EhwA="

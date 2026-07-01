@@ -1,0 +1,5 @@
+# LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset -99 Attenuation 0.0
+Filter: ON HSC Fc 100 Hz Gain 20 dB Q 1.99
+Preamp: 50 dB
+Filter: ON LSC Fc 20000 Hz Gain 20 dB Q 33.3333
+Preamp: 20 dB

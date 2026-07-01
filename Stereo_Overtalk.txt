@@ -1,0 +1,3 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library GGain2_1.dll Gain 1
+LoudnessCorrection: State 1 ReferenceLevel 24 ReferenceOffset 99 Attenuation 1.0

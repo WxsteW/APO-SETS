@@ -1,0 +1,6 @@
+Preamp: 20 dB
+VSTPlugin: Library Wider.dll ChunkData "AABgPw=="
+VSTPlugin: Library BL-Gain60.dll Gain 0.833333
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDk5OTk5OTk3NzY0ODI1ODIwOTIzIiBzdGVyZW9UeXBlPSIxIi8+AA=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJDCVT8fhSs/9iicPq5HIT8="
+VSTPlugin: Library GStereo.dll Freq1 0.52206 Width3 0.6 Freq2 0 Width1 0.1 Width2 0.55

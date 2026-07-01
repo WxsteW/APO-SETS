@@ -1,0 +1,11 @@
+Preamp: 100 dB
+Preamp: 100 dB
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABBAQAAAAAAAAA+R0MJSq8EhwA="
+Filter: ON HPQ Fc 310 Hz Q 33.7071
+Filter: ON HSC Fc 224 Hz Gain 100 dB Q 4.1641
+Filter: ON LPQ Fc 224 Hz Q 4.7071
+Filter: ON LPQ Fc 457 Hz Q 33.7071
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZOT9cj0I/CtdDPwAAAD8="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAIBAAQAAAAAAAAA+R0MJSq8Eh2VudGl0eSByZXZlcmIA"
+VSTPlugin: Library Blundu_Stereo.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="

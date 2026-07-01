@@ -1,0 +1,7 @@
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library GGain2.dll Gain 0.625
+VSTPlugin: Library Wider.dll ChunkData "ZmamPg=="
+Copy: 
+Filter: ON HS 12 dB Fc 120.94 Hz Gain 70 dB
+VSTPlugin: Library GGain2.dll Gain 1
+VSTPlugin: Library GGain2.dll Gain 1

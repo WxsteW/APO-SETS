@@ -1,0 +1,5 @@
+VSTPlugin: Library Wider.dll ChunkData "zcxMPg=="
+Preamp: 35 dB
+LoudnessCorrection: State 1 ReferenceLevel 50 ReferenceOffset 99 Attenuation 1.0
+VSTPlugin: Library TAL_Chorus_LX.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHZvbHVtZT0iMS4wIiBkcnl3ZXQ9IjAuMjg0MDAwMDA5Mjk4MzI0NiIgc3RlcmVvd2lkdGg9IjEuMCIgY2hvcnVzMWVuYWJsZT0iMC4wIiBjaG9ydXMyZW5hYmxlPSIwLjAiLz48L3Byb2dyYW1zPjwvdGFsPgA="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+Fqz4zMxM/UrjePgAAgD8="

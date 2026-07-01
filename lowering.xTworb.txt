@@ -1,0 +1,4 @@
+VSTPlugin: Library "Wider.dll" ChunkData "wQkcPg=="
+Filter: ON PK Fc 121 Hz Gain 7.2 dB BW Oct 33.3333
+Filter: ON HSC 0.349 dB Fc 2133.19 Hz Gain 4.2 dB
+Preamp: 15.3 dB

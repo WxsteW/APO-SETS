@@ -1,0 +1,7 @@
+Preamp: 100 dB
+LoudnessCorrection: State 1 ReferenceLevel 50 ReferenceOffset 90 Attenuation 1.0
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQ1MDAwMDE2Njg5MzAwNTM3MTA5IiBzdGVyZW9UeXBlPSIxIi8+AA=="
+Filter: ON HP Fc 200 Hz
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDIxMDAwMDAxNTc5NTIzMDg2NTQ4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Copy: R=R r=R

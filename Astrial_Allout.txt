@@ -1,0 +1,6 @@
+Preamp: 100 dB
+Preamp: 100 dB
+Filter: ON HP Fc 248 Hz
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDUwMDAwMDA4MTk1NjM4NjU2NjE2IiBzdGVyZW9UeXBlPSIyIi8+AA=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAD2KLw/AQAAAPq7BME+R0MJSq8EhwA="

@@ -1,0 +1,7 @@
+Preamp: 20 dB
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "/cu/Pg=="
+Filter: ON HPQ Fc 71.78 Hz Q 0.3333
+Filter: ON HSC Fc 95.29 Hz Gain 16.5 dB Q 0.8767
+Preamp: 63 dB

@@ -1,0 +1,6 @@
+VSTPlugin: Library Wider.dll ChunkData "Rmu0Pg=="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQzMDAwMDIwMDg2NzY1Mjg5MzA3IiBzdGVyZW9UeXBlPSIzIi8+AA=="
+Filter: ON HSC Fc 20 Hz Gain 20 dB Q 0.1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="

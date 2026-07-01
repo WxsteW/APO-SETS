@@ -1,0 +1,4 @@
+Preamp: 100 dB
+Filter: ON PK Fc 24800 Hz Gain 85 dB BW Oct 33.3333
+Filter: ON HP Fc 248 Hz
+VSTPlugin: Library Wider_1.dll ChunkData "ZmZmPg=="

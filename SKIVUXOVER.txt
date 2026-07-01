@@ -1,0 +1,5 @@
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AJCPj4+Ojo6Ojo6Ojo6Ojo6MjIyLAAAAAAAAgD8qXM8+AACAPwAAgD8="
+Filter: ON HPQ Fc 85.91 Hz Q 1.2327
+VSTPlugin: Library Wider.dll ChunkData "AADAPg=="
+VSTPlugin: Library GGain.dll Gain 1

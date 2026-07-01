@@ -1,0 +1,6 @@
+
+Preamp: 67 dB
+Filter: ON HSC 10.444 dB Fc 30 Hz Gain 20 dB
+VSTPlugin: Library basiQ.dll
+VSTPlugin: Library Wider.dll ChunkData "b+iGPg=="
+Filter: ON HPQ Fc 283 Hz Q 0.2222

@@ -1,0 +1,6 @@
+Preamp: 6 dB
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\GGain2.dll" Gain 0
+Filter: ON LPQ Fc 20000 Hz Q 0.893
+LoudnessCorrection: State 1 ReferenceLevel 99 ReferenceOffset 99 Attenuation 0.5
+Filter: ON HPQ Fc 20 Hz Q 1.7573
+Preamp: 35 dB

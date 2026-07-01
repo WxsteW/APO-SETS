@@ -1,0 +1,6 @@
+Filter: ON HS Fc 54 Hz Gain 15 dB
+Preamp: 30 dB
+VSTPlugin: Library Wider.dll ChunkData "JUkSPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9ihcPpqZGT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPhSuJz8="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAABcjwI/AQAAAK0JvcE+R0MJSq8EhwA="

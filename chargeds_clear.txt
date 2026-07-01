@@ -1,0 +1,4 @@
+Preamp: 45 dB
+VSTPlugin: Library Wider.dll ChunkData "xUosPg=="
+VSTPlugin: Library GGain2.dll Gain 0.54
+Filter: ON HP Fc 229.1 Hz

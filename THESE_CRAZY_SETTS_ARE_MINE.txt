@@ -1,0 +1,5 @@
+Preamp: 90 dB
+Preamp: 50.47 dB
+Preamp: 27.33 dB
+Filter: ON HSC 9.6743 dB Fc 37.92 Hz Gain 30 dB
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="

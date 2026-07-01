@@ -1,0 +1,5 @@
+Copy: L=L+L+R R=R
+Preamp: 10.6 dB
+VSTPlugin: Library Wider.dll ChunkData "H4XrPQ=="
+VSTPlugin: Library Wider.dll ChunkData "AAAAPg=="
+Copy: L=L+L+L+55.0*R R=5.0*L+R

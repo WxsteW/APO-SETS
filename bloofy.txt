@@ -1,0 +1,11 @@
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library QuickHaas.dll
+VSTPlugin: Library QuickHaas.dll
+VSTPlugin: Library Quickhaas.dll
+Preamp: 15 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB6FKz/Xo7A+SOE6PwAAgD8="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library Wider.dll ChunkData "zcxMPg=="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library wider.dll ChunkData "MQzDPg=="

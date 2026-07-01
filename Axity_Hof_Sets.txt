@@ -1,0 +1,7 @@
+# Copy: L=L+L+R R=L+R
+Channel: ALL
+VSTPlugin: Library DimensionExpander_x64.dll
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEjhWj8fhSs/UriePgAAAD8="
+Filter: ON HS Fc 20 Hz Gain 20 dB
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1

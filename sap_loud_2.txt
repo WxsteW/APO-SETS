@@ -1,0 +1,6 @@
+VSTPlugin: Library Wider_1.dll ChunkData "8i//Pg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAIA/AACAPwAAgD8="
+Filter: ON HSC Fc 20 Hz Gain 20 dB Q 1.0066
+# VSTPlugin: Library ReverbSolo1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAADNzAw/AQAAAJjPtsE+R0MJSq8EhwA="
+Preamp: 100 dB
+VSTPlugin: Library "QuickHaas (1).dll" ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="

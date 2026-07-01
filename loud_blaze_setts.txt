@@ -1,0 +1,11 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AP+Ghob/hYWF/4GBgf+CgoL/goKCAAAAAI/CdT8fhas+4XpUPwAAgD8="
+# Filter: ON HPQ Fc 130.03 Hz Q 0.7496
+Preamp: 100 dB
+VSTPlugin: Library Wider.dll ChunkData "WomVPg=="
+Filter: ON HSC Fc 112.47 Hz Gain 3.9 dB Q 0.4885
+ONLY USE IF U HAVE TOO
+# VSTPlugin: Library Wider.dll ChunkData "0Q1dPg=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+IN EARS METHOD
+# Include: chief.txt
+# Include: Venom_overtalk.txt

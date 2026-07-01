@@ -1,0 +1,8 @@
+Preamp: 100 dB
+Preamp: 20 dB
+Filter: ON HSC Fc 10 Hz Gain 30 dB Q 12.4444
+Filter: ON PK Fc 10 Hz Gain 99 dB Q 200
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAGZvwllAuil+a9yNc9wrkzqsh9wuAAAAAJqZWT8fhSs/9iicPilcLz8="
+VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIcIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHZvbHVtZT0iMS4wIiBkcnl3ZXQ9IjAuMCIgc3RlcmVvd2lkdGg9IjEuMCIgY2hvcnVzMWVuYWJsZT0iMC4wIiBjaG9ydXMyZW5hYmxlPSIwLjAiLz48L3Byb2dyYW1zPjwvdGFsPgA="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDIxMDAwMDAxNTc5NTIzMDg2NTQ4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library Wider.dll ChunkData "MQzDPQ=="

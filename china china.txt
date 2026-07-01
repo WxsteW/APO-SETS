@@ -1,0 +1,5 @@
+Preamp: 15 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "ZmamPg=="
+VSTPlugin: Library GStereo.dll Freq1 1 Width3 0.3275 Freq2 0.39794 Width1 0 Width2 0.475
+Filter: ON HS Fc 100 Hz Gain 3 dB

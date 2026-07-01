@@ -1,0 +1,3 @@
+Filter: ON HPQ Fc 420 Hz Q 54
+Filter: ON LPQ Fc 360 Hz Q 33.3333
+Preamp: 100 dB

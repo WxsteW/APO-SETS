@@ -1,0 +1,9 @@
+Channel: ALL
+Device: Microphone Yeti Classic {766c3073-5db4-492a-9872-2550a17140e4}
+Preamp: 10 dB
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA1Nzk5OTk5NDYwNTc3OTY0NzgyNyIgc3RlcmVvVHlwZT0iMiIvPgA="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library Wider_1.dll ChunkData "0Q3dPQ=="
+VSTPlugin: Library GGain.dll Gain 0.936667
+VSTPlugin: Library GGain.dll Gain 1
+Filter: ON HP Fc 77 Hz

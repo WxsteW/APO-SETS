@@ -1,0 +1,8 @@
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library Blundu_Stereo.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAzOTk5OTk5NzI0MzI4NTE3OTEzOCIgc3RlcmVvVHlwZT0iMCIvPgA="
+VSTPlugin: Library BL-Gain60.dll Gain 1
+Filter: ON HP Fc 110 Hz
+VSTPlugin: Library Clipmaxx64.dll ChunkData "VkMyIYUAAAA8Um9vdD48UHJlR2Fpbj4yNDwvUHJlR2Fpbj48Q2VpbGluZz4wPC9DZWlsaW5nPjxQb3N0R2Fpbj4yNDwvUG9zdEdhaW4+PEF1dG9HYWluPjA8L0F1dG9HYWluPjxDdXQ+MDwvQ3V0PjxDbGlwTW9kZT4wPC9DbGlwTW9kZT48L1Jvb3Q+AA=="
+VSTPlugin: Library Wider.dll ChunkData "q6qqPg=="
+Preamp: 20 dB
+Preamp: 20 dB

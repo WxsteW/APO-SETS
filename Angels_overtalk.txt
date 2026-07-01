@@ -1,0 +1,7 @@
+VSTPlugin: Library ReverbSolo1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAABcj6I/AQAAACBNm8E+R0MJSq8EhwA="
+Preamp: 19.1 dB
+Preamp: 7 dB
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA1Nzk5OTk5NDYwNTc3OTY0NzgyNyIgc3RlcmVvVHlwZT0iMiIvPgA="
+VSTPlugin: Library Wider_1.dll ChunkData "AADAPg=="
+VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIQcBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHByb2dyYW1uYW1lPSJTdGFydHVwIiBjYXRlZ29yeT0iY2F0ZWdvcnkgMSIgdm9sdW1lPSIxLjAiIGRyeXdldD0iMC40ODcwMDAwMTgzNTgyMzA2IiBzdGVyZW93aWR0aD0iMS4wIiBjaG9ydXMxZW5hYmxlPSIwLjAiIGNob3J1czJlbmFibGU9IjAuMCIvPjwvcHJvZ3JhbXM+PG1pZGltYXAvPjwvdGFsPgA="
+Filter: ON HP Fc 248 Hz

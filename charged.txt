@@ -1,0 +1,6 @@
+Include: peace.txt
+Preamp: 17 dB
+VSTPlugin: Library Wider.dll ChunkData "YGfcPg=="
+# Filter: ON HSC Fc 149 Hz Gain 18 dB Q 0.3333
+# Include: uzi.txt
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA2MTk5OTk5NzEyNDA3NTg4OTU4NyIgc3RlcmVvVHlwZT0iMCIvPgA="

@@ -1,0 +1,4 @@
+VSTPlugin: Library Wider.dll ChunkData "KVyPPg=="
+VSTPlugin: Library quickhaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA4MDAwMDA1MDM2NTkyNDgzNTIwNSIgc3RlcmVvVHlwZT0iMCIvPgA="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAFAQAABpYAAAT9AAAGVQARBQ0AAAAAAJqZWT8fhSs/9iicPgAAID8="
+VSTPlugin: Library GGain.dll Gain 0.66

@@ -1,0 +1,3 @@
+VSTPlugin: Library BL-Gain60.dll Gain 1
+VSTPlugin: Library Wider_1.dll ChunkData "B2gAPw=="
+Preamp: 100 dB

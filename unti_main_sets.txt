@@ -1,0 +1,5 @@
+Preamp: 10 dB
+VSTPlugin: Library Wider.dll ChunkData "S6zEPg=="
+Preamp: 3 dB
+Preamp: 5 dB
+Include: yesper_stereo.txt

@@ -1,0 +1,8 @@
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDQzMDAwMDIwMDg2NzY1Mjg5MzA3IiBzdGVyZW9UeXBlPSIzIi8+AA=="
+VSTPlugin: Library Wider.dll ChunkData "VUiFPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPq5HQT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPq5HYT8="
+Filter: ON HS Fc 20 Hz Gain 7.5 dB
+VSTPlugin: Library GGain.dll Gain 0.9125
+VSTPlugin: Library BL-Gain60.dll Gain 0.600694
+VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMS4wMDAsMC4yMDAsMC4wMDAsMS4wMDAsMS4wMDAsMC4wMDAsMC4wMDAA"

@@ -1,0 +1,2 @@
+Preamp: 15.21 dB
+Filter: ON HS Fc 20 Hz Gain 30 dB

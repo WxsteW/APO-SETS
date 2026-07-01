@@ -1,0 +1,18 @@
+Preamp: 4.9 dB
+# 
+Preamp: 10 dB
+# 
+Preamp: 20 dB
+# 
+Preamp: 30 dB
+# 
+Preamp: 100 dB
+# 
+VSTPlugin: Library Wider.dll ChunkData "8QiPPg=="
+VSTPlugin: Library Wider.dll ChunkData "/tgPPw=="
+Filter: ON HP Fc 150.32 Hz
+Filter: ON HP Fc 54.45 Hz
+VSTPlugin: Library LOVEND_x64.dll Frequency 0.302174 Oversampling 0 Boost 0.0652174 Output 0.962644 Bypass 1
+# 
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAD2KBw/AQAAAEVfDME+R0MJSq8Eh2VudGl0eSByZXZlcmIA"
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"

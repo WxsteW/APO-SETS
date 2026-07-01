@@ -1,0 +1,5 @@
+Preamp: 20 dB
+Preamp: 20 dB
+Preamp: 20 dB
+VSTPlugin: Library wider.dll ChunkData "AACAPw=="
+Filter: ON HP Fc 100 Hz

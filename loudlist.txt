@@ -1,0 +1,4 @@
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+Preamp: 10.6 dB
+Copy: L=L+L+L+L+L+L+L+L+L+L+L+L+99.99*R R=L+L+R+R+R
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUTj8AAAAAUrjePgAAgD8="

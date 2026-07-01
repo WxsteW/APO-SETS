@@ -1,0 +1,8 @@
+Device: Astrials Yeti Yeti Nano {a0e7339a-1534-43c2-ba91-f00354528f79}
+VSTPlugin: Library basiQ.dll
+VSTPlugin: Library basiQ.dll
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8AAAA/AAAAPwAAAD8="
+Preamp: 100 dB
+Filter: ON HS Fc 20 Hz Gain 7.5 dB
+Preamp: 19.4 dB
+VSTPlugin: Library wider.dll ChunkData "AAAAAA=="

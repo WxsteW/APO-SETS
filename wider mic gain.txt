@@ -1,0 +1,7 @@
+VSTPlugin: Library Wider.dll ChunkData "UrgePg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPnwULj8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPmRmJj8="
+Filter: ON HS Fc 110 Hz Gain 11 dB
+VSTPlugin: Library Wider.dll ChunkData "YQu2PQ=="
+Preamp: 11 dB
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAzMTAwMDAwMzIxODY1MDgxNzg3MSIgc3RlcmVvVHlwZT0iMCIvPgA="

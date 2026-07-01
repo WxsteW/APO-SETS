@@ -1,0 +1,8 @@
+Preamp: 20 dB
+VSTPlugin: Library ..\Wider.dll ChunkData "WYmVPg=="
+VSTPlugin: Library ..\GGain2.dll Gain 0.623333
+Filter: ON HSC 0.3333 dB Fc 20000 Hz Gain 20 dB
+VSTPlugin: Library ..\GGain2.dll Gain 1
+VSTPlugin: Library ..\basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPuxROD8="
+VSTPlugin: Library ..\basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+Filter: ON HPQ Fc 183.67 Hz Q 0.3333

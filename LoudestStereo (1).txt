@@ -1,0 +1,8 @@
+Device:  Microphone Razer Seiren Mini {6e99d005-5f33-4114-9f45-8a3b33951607}
+VSTPlugin: Library "D:\Downloads\basiQ (1).dll" ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library "D:\Downloads\basiQ (1).dll" ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library "D:\Downloads\basiQ (1).dll" ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+Preamp: 100 dB
+Filter: ON HS Fc 20 Hz Gain 7.5 dB
+Preamp: 19.4 dB
+VSTPlugin: Library D:\Downloads\Wider_1.dll ChunkData "AA3QPQ=="

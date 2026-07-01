@@ -1,0 +1,5 @@
+Preamp: 50 dB
+Filter: ON HPQ Fc 212.34 Hz Q 0.3333
+VSTPlugin: Library Wider.dll ChunkData "AADAPg=="
+Delay: 5 ms
+LoudnessCorrection: State 1 ReferenceLevel -99 ReferenceOffset 99 Attenuation 1.0

@@ -1,0 +1,6 @@
+Preamp: 100 dB
+Preamp: 100 dB
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library Wider.dll ChunkData "jLxIPw=="
+Filter: ON HSC 13.4444 dB Fc 20 Hz Gain 20 dB
+Include: Middle_Reverb.txt

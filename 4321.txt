@@ -1,0 +1,5 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAJKSlZWVmpqamZmZmZmZmpqal5eXAAAAAJqZWT8fhSs/9iicPnE9Cj8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAB1Tf1+aZz3mpyWxysr0RhN04CqzAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "PQpXPg=="
+Filter: ON HSC Fc 150 Hz Gain 5 dB Q 0.3333
+VSTPlugin: Library GGain.dll Gain 0.69

@@ -1,0 +1,5 @@
+VSTPlugin: Library BL-Gain60.dll Gain 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAgD8="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library Wider.dll ChunkData "wQkcPg=="
+VSTPlugin: Library GStereo.dll Freq1 0.22956 Width3 0.28 Freq2 1 Width1 0.4475 Width2 0.365

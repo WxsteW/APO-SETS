@@ -1,0 +1,13 @@
+zoh overtalk
+Preamp: 28 dB
+Filter: ON HP Fc 20 Hz
+LoudnessCorrection: State 1 ReferenceLevel 22 ReferenceOffset 55 Attenuation 1.0
+VSTPlugin: Library Wider.dll ChunkData "AACAPw=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHI9yj6Zmdk+SOEaPylcLz8="
+Preamp: 5 dB
+Filter: ON HS Fc 216.79 Hz Gain 1.48 dB
+VSTPlugin: Library Blundu_Stereo.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxMTk5OTk5ODI0MTY2Mjk3OTEyNiIgc3RlcmVvVHlwZT0iMCIvPgA="
+Include: zion.txt
+Include: Venom_overtalk.txt
+Include: creedo.txt
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAAAABAAQAAAC79gb4+R0MJSq8EhwA="

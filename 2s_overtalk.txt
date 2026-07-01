@@ -1,0 +1,7 @@
+Preamp: 100 dB
+Filter: ON HPQ Fc 143.23 Hz Q 0.7071
+VSTPlugin: Library Wider.dll ChunkData "H+7hPg=="
+LoudnessCorrection: State 1 ReferenceLevel 50 ReferenceOffset 99 Attenuation 1.0
+Preamp: 100 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AOl+actspVuKdC0zOyvq2V9iseVrAAAAAEjhWj+F65E+MzMzPwAAgD8="
+Preamp: 100 dB

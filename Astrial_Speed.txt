@@ -1,0 +1,5 @@
+Preamp: 20 dB
+Filter: ON HSC Fc 100 Hz Gain 20 dB Q 5
+Copy: L=L+R R=L+R
+VSTPlugin: Library Wider.dll ChunkData "IQiCPQ=="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDMwMDAwMDA0OTE3MzgzMTkzOTciIHN0ZXJlb1R5cGU9IjAiLz4A"

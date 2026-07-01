@@ -1,0 +1,8 @@
+Preamp: 100 dB
+Filter: ON HP Fc 514.08 Hz
+Filter: ON BP Fc 721.16 Hz Q 10
+Preamp: 100 dB
+Filter: ON BP Fc 20 Hz Q 0.3333
+Filter: ON LPQ Fc 248.9 Hz Q 33.3333
+Filter: ON BP Fc 500.07 Hz Q 5.7924
+VSTPlugin:

@@ -1,0 +1,10 @@
+Device: ENDED A TROLL WITH THIS Yeti Classic {3cb3448a-ff9b-400b-88a0-34561f04defc}
+LoudnessCorrection: State 1 ReferenceLevel 55 ReferenceOffset 99 Attenuation 1.0
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD8zMzM+H4UrP9ejUD8="
+VSTPlugin: Library UpStereo.dll ChunkData "VkMyIb0AAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8VVBTVF8zIHVpSGVpZ2h0PSI1MTIiIHBhckdhaW49IjAuNTAxMTg3MjA1MzE0NjM2MiIgcGFyU3RlcmVvV2lkdGg9IjAuNjQ5OTk5OTc2MTU4MTQyMSIgcGFyTG91ZFR5cGU9IjAuNSIgcGFyQWN0aXZlPSIwLjUiIHBhckFpcj0iMS4wIiBwYXJCYXNzPSIwLjAiLz4A"
+VSTPlugin: Library Wider.dll ChunkData "mozJPQ=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTE5OTk5OTgyNDE2NjI5NzkxMjYiIHN0ZXJlb1R5cGU9IjIiLz4A"
+Preamp: 5 dB
+Preamp: 10 dB
+Preamp: 15 dB
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAK1xNAAQAAABTzssE+R0MJSq8EhwA="

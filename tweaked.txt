@@ -1,0 +1,6 @@
+Filter: ON HS Fc 20 Hz Gain 30 dB
+Filter: ON HS Fc 31.59 Hz Gain 5 dB
+Filter: ON HP Fc 60.4 Hz
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPuJ61D4="
+VSTPlugin: Library DimensionExpander_x64.dll on/off 1 Size 0.53 Dry/Wet 0.475
+VSTPlugin: Library Wider.dll ChunkData "zcxMPg=="

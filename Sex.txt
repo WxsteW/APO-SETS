@@ -1,0 +1,4 @@
+Preamp: 100 dB
+VSTPlugin: Library Wider.dll ChunkData "Ygs2Pw=="
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+Filter: ON HP Fc 267.84 Hz

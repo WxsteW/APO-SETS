@@ -1,0 +1,5 @@
+Preamp: 25 dB
+Filter: ON NO Fc 28.25 Hz
+LoudnessCorrection: State 1 ReferenceLevel -14 ReferenceOffset 99 Attenuation 1.0
+Filter: ON HPQ Fc 20 Hz Q 1.9269
+VSTPlugin: Library "C:\Program Files\Common Files\VST2\QuickHaas.dll"

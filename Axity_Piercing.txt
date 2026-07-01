@@ -1,0 +1,5 @@
+Device: God Yeti Classic {3d75c5be-3313-4087-a18b-fba999b33a96}
+Filter: ON PK Fc 121 Hz Gain 10 dB BW Oct 444.444
+VSTPlugin: Library Wider.dll ChunkData "zczMPQ=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPqRwHT8="
+Preamp: 20 dB

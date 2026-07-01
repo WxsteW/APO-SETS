@@ -1,0 +1,3 @@
+Preamp: 17.4 dB
+VSTPlugin: Library SHB-1.dll Bright 1 Depth 1 Shape 1 Gain 0.695 "Plugin Mode" 1 Bypass 0 Mids 1 Volume 0.075 Lows 1 Treble 1 Balance 1 "Input Level" 0.5 "Output Level" 0.5 Oversampling 0.5
+VSTPlugin: Library DragonflyPlateReverb-vst.dll ChunkData "cHJlc2V0AENsZWFyIFBsYXRlAABkcnlfbGV2ZWwAMTAwAGVhcmx5X2xldmVsADAAYWxnb3JpdGhtADEAd2lkdGgAMTUwAHByZWRlbGF5ADEwMABkZWNheQAxMABsb3dfY3V0ADIwMABoaWdoX2N1dAAxNjAwMABlYXJseV9kYW1wADE2MDAwAAA="

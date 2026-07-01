@@ -1,0 +1,9 @@
+Sets By Synr#2744
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjMiLz4A"
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjMiLz4A"
+VSTPlugin: Library BL-Precedence.dll DelayNorm 1
+Preamp: 100 dB
+Preamp: 100 dB
+Preamp: 45 dB
+VSTPlugin: Library BL-Gain60.dll Gain 1
+VSTPlugin: Library Niggagain.dll Gain 1

@@ -1,0 +1,4 @@
+VSTPlugin: Library Wider.dll ChunkData "uB7FPg=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0ANybclMM7sYU7StFCUX/ecCFllMMAAAAAKRwXT/NzCw/UriePgAAgD8="
+VSTPlugin: Library GGain.dll Gain 1
+Filter: ON HS Fc 58.35 Hz Gain 20 dB

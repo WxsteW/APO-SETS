@@ -1,0 +1,7 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAEjhOj8fhSs/pHAdPwAAAD9QS1NCAAAAAEjhOj+QwjU/cT0KPwAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsANybclMM7sYU7StFCUX/ecCFllMMAAAAAHE9Kj8zMzM/cT0KPwAAgD8="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library Wider.dll ChunkData "kQqpPg=="
+VSTPlugin: Library Wider.dll ChunkData "LcsyPg=="
+VSTPlugin: Library GStereo.dll Freq1 1 Width3 0.185 Freq2 1 Width1 0.2175 Width2 0.1725
+Filter: ON HPQ Fc 97.96 Hz Q 0.3333

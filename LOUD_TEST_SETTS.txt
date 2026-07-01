@@ -1,0 +1,7 @@
+Preamp: 100 dB
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library Wider.dll ChunkData "P+mTPg=="
+VSTPlugin: Library Wider.dll ChunkData "PtxDPw=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPYoXD9mZmY+ZmYmPwAAgD8="

@@ -1,0 +1,5 @@
+Preamp: 40 dB
+Filter: ON HP Fc 248 Hz
+Filter: ON HSC Fc 120 Hz Gain 12.4 dB Q 12.6374
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDIxMDAwMDAxNTc5NTIzMDg2NTQ4IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAACkcP0/AQAAAJlNoMA+R0MJSq8EhwA="

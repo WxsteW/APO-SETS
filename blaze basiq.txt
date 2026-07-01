@@ -1,0 +1,7 @@
+Preamp: 20 dB
+Filter: ON HS Fc 159.97 Hz Gain 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAML1KD80M7M+mplZPwAAgD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAArXYz8K16M+AACAPwAAgD8="
+VSTPlugin: Library Wider_1.dll ChunkData "uB4FPg=="
+VSTPlugin: Library Wider_1.dll ChunkData "rkdhPg=="
+VSTPlugin: Library GStereo.dll Freq1 1 Width3 1 Freq2 1 Width1 1 Width2 0.4575

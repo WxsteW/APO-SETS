@@ -1,0 +1,7 @@
+Preamp: 30 dB
+Preamp: 7.69 dB
+Filter: ON HSC Fc 27.63 Hz Gain 26.74 dB Q 14.6849
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library Wider.dll ChunkData "0Q1dPg=="
+VSTPlugin: Library TAL-Chorus-LX-64.dll ChunkData "VkMyIcIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFsIGN1cnByb2dyYW09IjAiIHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHZvbHVtZT0iMS4wIiBkcnl3ZXQ9IjAuMCIgc3RlcmVvd2lkdGg9IjEuMCIgY2hvcnVzMWVuYWJsZT0iMC4wIiBjaG9ydXMyZW5hYmxlPSIwLjAiLz48L3Byb2dyYW1zPjwvdGFsPgA="

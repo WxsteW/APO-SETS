@@ -1,0 +1,7 @@
+Preamp: -100 dB
+Preamp: -100 dB
+Preamp: -100 dB
+Preamp: -100 dB
+Preamp: -100 dB
+Preamp: -100 dB
+Preamp: -20 dB

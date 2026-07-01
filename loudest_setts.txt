@@ -1,0 +1,70 @@
+
+VSTPlugin: Library "vst plugins\VSTPlugins\VSTPlugins\Blundu_Stereo.dll" ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+Filter: ON HP Fc 100 Hz
+Filter: ON HP Fc 100 Hz
+Filter: ON HP Fc 100 Hz
+Filter: ON HP Fc 330.39 Hz
+Filter: ON HP Fc 100 Hz
+Filter: ON HS Fc 31.77 Hz Gain 50 dB
+# Include: Clekcs_X_Aperti_Audio_Sets.txt
+# Include: bestovertalk_use_mic_gain.txt
+# Include: hi.txt
+# 
+# Include: looneys_official_loud_mic.txt
+# Include: use for peircing.txt
+# Include: Aperti_Sets.txt
+# 
+# Include: tworb.txt
+# Include: Blaze_negro.txt
+# 
+# 
+# 
+# 
+# 
+# Include: loudest on cord.txt
+# 
+# Include: Unhoeable_X_Mumbles.txt
+# Include: GRUSKY_AKA_GILKY_BLAZE_SETS_HOF_1_1.txt
+# 
+# 
+# 
+# 
+# Include: entityss.txt
+# Include: overtalk12.txt
+# Include: creedo.txt
+# 
+# 
+# 
+# Include: entity_setts (1).txt
+# Include: looneys_official_loud_mic.txt
+# Include: extraloud.txt
+# 
+# Include: chief (2).txt
+# 
+# 
+# 
+# 
+# Include: hubby_blaze_setts (1).txt
+# 
+# 
+# 
+# Include: kill_sets.txt
+# Include: bees_2.txt
+# Include: kashhstamset.txt
+# Include: best_setts.txt
+# Include: 
+# Include: entitys_original_setts (1).txt
+# 
+VSTPlugin: Library "vst plugins\VSTPlugins\VSTPlugins\BC Gain 3 VST(Stereo).dll" ChunkData "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48UHJlc2V0IHZlcnNpb249IjQiIHByb2dOYW1lPSJEZWZhdWx0IiBjdXJyZW50UHJlc2V0RmlsZVBhdGg9IkRlZmF1bHQucHJlc2V0IiBjdXJyZW50UHJlc2V0RmlsZVJvb3Q9IjAiIE1JRElJbnB1dERlZmF1bHQ9IjEiIE1JRElPdXRwdXREZWZhdWx0PSIxIiBNSURJUHJvZ3JhbUNoYW5nZUNoYW5uZWw9Ii0xIj48TUlESU5leHRQcmVzZXRTZXR0aW5nIGNoYW5uZWw9IjAiIG51bWJlcj0iMCIgbWlkaUVuYWJsZWQ9IjAiIHR5cGU9IkNDIi8+PE1JRElQcmV2UHJlc2V0U2V0dGluZyBjaGFubmVsPSIwIiBudW1iZXI9IjAiIG1pZGlFbmFibGVkPSIwIiB0eXBlPSJDQyIvPjxpbnB1dFBhcmFtcyBjb3VudD0iMiIgcDA9IjAiIHAxPSItMTciLz48bW9kZWw+PG1vZGVsPjxzdGF0ZSB2ZXJzaW9uPSI1Ij48cGFyYW1zIHBDb3VudD0iMTIiPjxwMCBuYW1lPSJncm91cEEuZW5hYmxlZCIgdmFsdWU9IjAiLz48cDEgbmFtZT0iZ3JvdXBCLmVuYWJsZWQiIHZhbHVlPSIwIi8+PHAyIG5hbWU9Imdyb3VwQy5lbmFibGVkIiB2YWx1ZT0iMCIvPjxwMyBuYW1lPSJncm91cEQuZW5hYmxlZCIgdmFsdWU9IjAiLz48cDQgbmFtZT0iZ3JvdXBFLmVuYWJsZWQiIHZhbHVlPSIwIi8+PHA1IG5hbWU9Imdyb3VwRi5lbmFibGVkIiB2YWx1ZT0iMCIvPjxwNiBuYW1lPSJncm91cEcuZW5hYmxlZCIgdmFsdWU9IjAiLz48cDcgbmFtZT0iZ3JvdXBILmVuYWJsZWQiIHZhbHVlPSIwIi8+PHA4IG5hbWU9Imdyb3VwSS5lbmFibGVkIiB2YWx1ZT0iMCIvPjxwOSBuYW1lPSJsaW5rX3JlbGF0aXZlIiB2YWx1ZT0iMSIvPjxwMTAgbmFtZT0ibGlua19yZXZlcnNlIiB2YWx1ZT0iMCIvPjxwMTEgbmFtZT0ibm9fbGluayIgdmFsdWU9IjEiLz48L3BhcmFtcz48L3N0YXRlPjwvbW9kZWw+PC9tb2RlbD48R1VJIHZlcnNpb249IjEiIHVzZURlZmF1bHQ9IjEiIHNraW5ab29tPSIwLjcwMDAwMDAwMDAwMDAwMDA2NjYxIiBjaGFuZ2VkU2luY2VQcmVzZXRMb2FkZWQ9IjEiPjxza2luIHZlcnNpb249IjIiPjxzdGF0ZSB2ZXJzaW9uPSI1Ij48cGFyYW1zIHBDb3VudD0iMyI+PHAwIG5hbWU9InNob3dfbGlua19jb250cm9scyIgdmFsdWU9IjAiLz48cDEgbmFtZT0idGhlbWUub3BhY2l0eSIgdmFsdWU9IjEwMCIvPjxwMiBuYW1lPSJ0aGVtZS5zaG93X3NldHRpbmdzIiB2YWx1ZT0iMCIvPjwvcGFyYW1zPjxtZXRhIG1Db3VudD0iMiI+PG0wIG5hbWU9InRoZW1lLm9wYWNpdHkubWV0YSI+PHZhbHVlIHZlcnNpb249IjUiPjxwYXJhbXMgcENvdW50PSIxIj48cDAgbmFtZT0ibG9ja2VkIiB2YWx1ZT0iMCIvPjwvcGFyYW1zPjwvdmFsdWU+PC9tMD48bTEgbmFtZT0idGhlbWUuc2hvd19zZXR0aW5ncy5tZXRhIj48dmFsdWUgdmVyc2lvbj0iNSI+PHBhcmFtcyBwQ291bnQ9IjEiPjxwMCBuYW1lPSJsb2NrZWQiIHZhbHVlPSIwIi8+PC9wYXJhbXM+PC92YWx1ZT48L20xPjwvbWV0YT48L3N0YXRlPjwvc2tpbj48L0dVST48L1ByZXNldD4A"
+# VSTPlugin: Library BL-Gain60.dll Gain 1
+# Preamp: 20 dB
+# Preamp: 25 dB
+Preamp: 20 dB
+Preamp: 20 dB
+# Include: clear_sets.txt
+# 
+# Include: Clear_Blazing_Sets.txt
+# 
+# Include: ass_setts.txt
+# VSTPlugin: Library "vst plugins\VSTPlugins\VSTPlugins\ReverbSolo (1).dll" ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAB7FO4/AQAAADv+A8E+R0MJSq8EhwA="
+# Include: LOUDEST_ON_CORD.txt

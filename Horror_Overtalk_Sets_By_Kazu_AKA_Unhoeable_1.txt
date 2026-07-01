@@ -1,0 +1,8 @@
+VSTPlugin: Library ..\QuickHaas_1.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTg5OTk5OTkzODkwNTIzOTEwNTIiIHN0ZXJlb1R5cGU9IjMiLz4A"
+VSTPlugin: Library ..\GGain2.dll Gain 1
+VSTPlugin: Library ..\GGain.dll Gain 1
+Filter: ON HPQ Fc 75.34 Hz Q 0.918
+Preamp: 3.8 dB
+Preamp: 3.8 dB
+LoudnessCorrection: State 1 ReferenceLevel 0 ReferenceOffset 26 Attenuation 0.01
+VSTPlugin: Library ..\Wider.dll ChunkData "AACAPw=="

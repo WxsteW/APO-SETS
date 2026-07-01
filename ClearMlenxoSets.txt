@@ -1,0 +1,7 @@
+Preamp: 100 dB
+Preamp: 100 dB
+Preamp: 100 dB
+Filter: ON HS Fc 450 Hz Gain 20 dB
+VSTPlugin: Library Wider.dll ChunkData "YQs2Pg=="
+VSTPlugin: Library "SweetDrums_x64 (1).dll" Bypass 1 Output 0.997664 Process 1 Input 0
+VSTPlugin: Library QuickHaas_1.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDU3OTk5OTk0NjA1Nzc5NjQ3ODI3IiBzdGVyZW9UeXBlPSIwIi8+AA=="

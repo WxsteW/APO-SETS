@@ -1,0 +1,4 @@
+VSTPlugin: Library Wider.dll ChunkData "UrgePg=="
+VSTPlugin: Library BL-LoFi.dll Depth 1 InGain 0.618056 OutGain 0.576389 Graph 0
+Preamp: 5 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPnE9Cj8="

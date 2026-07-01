@@ -1,0 +1,5 @@
+Preamp: 9 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPh6F6z4="
+VSTPlugin: Library Wider.dll ChunkData "PQpXPg=="
+VSTPlugin: Library FREE87_FR-COMPx64.dll Attack 0.666667 MakeUp 0.25 Limiter 0 Thrshld 1 Release 0.333333
+VSTPlugin: Library GStereo.dll Freq1 0.86706 Freq2 0.439727 Width3 0.3625 Width1 0 Width2 1

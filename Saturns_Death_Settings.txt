@@ -1,0 +1,6 @@
+Copy: L=L+R R=L+R
+Preamp: 55 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPlK4Pj8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAKoAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPilcLz8="
+VSTPlugin: Library Wider.dll ChunkData "aY1WPg=="
+Filter: ON HPQ Fc 22 Hz Q 0.3333

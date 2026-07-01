@@ -1,0 +1,5 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+Filter: ON HS Fc 100 Hz Gain 4 dB
+VSTPlugin: Library Wider.dll ChunkData "AQ3QPQ=="
+Include: yesper_stereo.txt
+Sets Made by ! Geekn#0002
